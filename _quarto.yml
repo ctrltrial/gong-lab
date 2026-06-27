@@ -4,7 +4,9 @@ project:
 
 website:
   title: "Gong Lab"
+  description: "The Gong Lab at Yale — AI, clinical informatics, and evidence-driven oncology research"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
@@ -15,6 +17,8 @@ website:
       - news.qmd
       - join.qmd
       - contact.qmd
+  page-footer:
+    center: "The Gong Lab · Yale School of Medicine · Yale Cancer Center"
 
 format:
   html:
@@ -23,6 +27,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-

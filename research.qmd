@@ -1,0 +1,52 @@
+---
+title: "Research"
+---
+
+The Gong Lab develops computational methods that connect patients to the right clinical trials, improve the quality of real-world evidence, and help design more efficient oncology studies. Our research spans method development, health system implementation, and translational evaluation in cancer care.
+
+## Clinical trial patient matching
+
+Only 5–7% of adult cancer patients enroll in clinical trials, despite rapid growth in available studies. Manual chart review for eligibility screening is a major bottleneck.
+
+We develop **Clinical Trial Patient Matching (CTPM)** systems that combine rule-based logic and clinical NLP to prescreen patients against trial inclusion and exclusion criteria. Our pipeline uses electronic health record data standardized to the **Observational Medical Outcomes Partnership (OMOP) common data model**, enabling structured and unstructured data to be analyzed together across health systems.
+
+In validation work published in *JCO Clinical Cancer Informatics*, our system was evaluated on metastatic colorectal cancer trials and subsequently deployed across **29 oncology trials** spanning multiple cancer types and phases. The approach lets research teams focus on high-likelihood candidates rather than exhaustive manual review.
+
+## Eligibility criteria intelligence
+
+Trial eligibility criteria are complex, heterogeneous, and difficult to compare across protocols. We build scalable NLP frameworks that:
+
+- Extract and normalize eligibility text from clinical trial registries
+- Cluster semantically similar criteria using embedding-based methods
+- Summarize criteria patterns with large language models
+- Visualize domain-level trends through interactive web interfaces
+
+This work supports automated patient matching and evidence-based trial design by revealing recurring inclusion and exclusion patterns across oncology domains (e.g., breast, lung, and GI malignancies).
+
+## Real-world data & EHR science
+
+High-quality clinical research depends on trustworthy EHR data. We study:
+
+- **Computational phenotyping** from structured and unstructured clinical data
+- **Real-time EHR data integrity** for research use
+- **Digital phenotyping** for adverse event detection and patient identification
+- **Predictive modeling** with NLP and machine learning for precision medicine
+
+Our EHR science work is conducted in close collaboration with Yale New Haven Health and the Schulz Lab.
+
+## Equitable access to clinical trials
+
+We design matching systems with diversity and equity as explicit goals—recognizing underserved groups, supporting multilingual populations, and reducing barriers that limit trial access. CtrlTrial, our translational platform, embeds these principles into real-time notification workflows for clinicians and trial teams.
+
+## Methods & technologies
+
+| Area | Methods |
+|------|---------|
+| Data standards | OMOP CDM, FHIR integration |
+| NLP / AI | Clinical NLP, large language models, hybrid rules + ML pipelines |
+| Data sources | EHR (Epic), pathology, laboratory, CTMS, ClinicalTrials.gov |
+| Domains | Oncology clinical trials, real-world evidence, outcomes research |
+
+## Funding & support
+
+Our research is supported by the Yale Cancer Center Translational-Targeted Area of Research Excellence (T-TARE), Yale New Haven Health Innovation Awards, the Yale Cancer Center Catchment Area Research Award, and the Blavatnik Fund for Innovation at Yale.

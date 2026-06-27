@@ -1,0 +1,40 @@
+---
+title: "People"
+---
+
+## Principal Investigator
+
+### Guannan Gong, PhD
+
+**Associate Research Scientist**  
+Department of Medical Oncology and Hematology  
+Yale School of Medicine · Yale Cancer Center
+
+Guannan Gong leads research at the intersection of clinical informatics, artificial intelligence, and oncology. His work focuses on digital phenotyping from electronic health records, clinical trial patient matching, and scalable NLP methods for structuring trial eligibility criteria. He is the founder of [CtrlTrial](https://www.ctrltrial.com/), which translates lab research into tools for real-time clinical trial recruitment.
+
+**Education**
+
+- PhD, Computational Biology and Bioinformatics — Yale University (2021)
+- MS, Computer Science — Columbia University (2009)
+
+**Contact:** [guannan.gong@yale.edu](mailto:guannan.gong@yale.edu) · [Yale profile](https://medicine.yale.edu/profile/guannan-gong/) · [ORCID 0000-0002-4972-6705](https://orcid.org/0000-0002-4972-6705)
+
+---
+
+## Collaborators
+
+The Gong Lab works closely with investigators across Yale and Yale New Haven Health, including:
+
+- **Wade Schulz, MD, PhD** — Clinical informatics and biomedical data science
+- **Harlan Krumholz, MD, SM** — Outcomes research and health data science
+- **Ian Krop, MD, PhD** — Medical oncology and clinical trials
+- **Maryam Lustberg, MD, MPH** — Breast oncology and survivorship
+- **Pamela Kunz, MD** — Gastrointestinal oncology
+
+We also collaborate with clinical trial teams, the Yale Cancer Center, and the Center for Outcomes Research and Evaluation (CORE).
+
+---
+
+## Trainees & students
+
+We welcome motivated students and trainees interested in clinical NLP, machine learning, and oncology informatics. See [Join the Lab](join.qmd) for current opportunities.

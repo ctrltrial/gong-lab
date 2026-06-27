@@ -1,0 +1,71 @@
+---
+title: "Publications"
+---
+
+Selected peer-reviewed publications from the Gong Lab. A full list is available on [Dr. Gong's Yale profile](https://medicine.yale.edu/profile/guannan-gong/).
+
+## 2026
+
+**Clinical Trial Patient Matching: A Real-Time, Common Data Model and Artificial Intelligence–Driven System for Semiautomated Patient Prescreening in Cancer Clinical Trials**
+
+Gong G, Liu J, Pandya S, Taborda C, Wiesendanger N, Price N, Byron W, Coppi A, Young P, Wiess C, Dunning H, Barganier C, Brodeur R, Fischbach N, LoRusso P, Pusztai L, Kim S, Rozenblit M, Cecchini M, Mongiu A, Mendez L, Kaftan E, Torre C, Krumholz H, Krop I, Schulz W, Lustberg M, Kunz P.
+
+*JCO Clinical Cancer Informatics* 2026; 10:e2500262.  
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41512229/) · [DOI: 10.1200/CCI-25-00262](https://doi.org/10.1200/CCI-25-00262)
+
+Developed and validated a hybrid rules- and NLP-based CTPM pipeline using OMOP-standardized EHR data, demonstrating improved recruitment efficiency across 29 oncology trials.
+
+---
+
+**Assessment of the integrity of real-time electronic health record data used in clinical research**
+
+Liu J, Pandya S, Coppi A, Young H, Krumholz H, Schulz W, Gong G.
+
+*PLOS ONE* 2026; 21:e0340287.  
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41511976/) · [DOI: 10.1371/journal.pone.0340287](https://doi.org/10.1371/journal.pone.0340287)
+
+Benchmarked the accuracy and reliability of real-time EHR data for secondary use in clinical research.
+
+---
+
+**A Natural Language Processing Framework for Structuring and Visualizing Clinical Trial Eligibility Criteria at Scale: Protocol for a Quantitative Study**
+
+Xie J, Parikh J, Liu J, Pandya S, Gong G.
+
+*JMIR Research Protocols* 2026.  
+[Full text](https://www.researchprotocols.org/2026/1/e86425)
+
+Protocol describing an LLM-enabled pipeline for clustering, summarizing, and visualizing eligibility criteria from ClinicalTrials.gov oncology trials.
+
+## 2021
+
+**Clinical characteristics and outcomes for 7,995 patients with SARS-CoV-2 infection**
+
+McPadden J, Warner F, Young HP, Hurley NC, Pulk RA, Singh A, Durant TJS, Gong G, Desai N, Haimovich A, Taylor RA, Gunel M, Dela Cruz CS, Farhadian SF, Siner J, Villanueva M, Churchwell K, Hsiao A, Torre CJ, Velazquez EJ, Herbst RS, Iwasaki A, Ko AI, Mortazavi BJ, Krumholz HM, Schulz WL.
+
+*PLOS ONE* 2021; 16:e0243291.  
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/33788846/) · [DOI: 10.1371/journal.pone.0243291](https://doi.org/10.1371/journal.pone.0243291)
+
+Large cohort study of COVID-19 patients at Yale New Haven Health examining clinical characteristics and outcomes.
+
+## 2020
+
+**Patient factors associated with SARS-CoV-2 in an admitted emergency department population**
+
+Haimovich A, Warner F, Young HP, Ravindra NG, Sehanobish A, Gong G, Wilson FP, van Dijk D, Schulz W, Taylor R.
+
+*Journal of the American College of Emergency Physicians Open* 2020; 1:569–577.  
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/32838371/) · [DOI: 10.1002/emp2.12145](https://doi.org/10.1002/emp2.12145)
+
+Identified patient-level factors associated with SARS-CoV-2 positivity in admitted ED patients.
+
+---
+
+**Bridging the Collaboration Gap: Real-time Identification of Clinical Specimens for Biomedical Research**
+
+Durant TJS, Gong G, Price N, Schulz WL.
+
+*Journal of Pathology Informatics* 2020; 11:14.  
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/32477620/) · [DOI: 10.4103/jpi.jpi_15_20](https://doi.org/10.4103/jpi.jpi_15_20)
+
+Described a real-time system for identifying clinical specimens to support collaborative biomedical research.

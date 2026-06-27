@@ -2,8 +2,29 @@
 title: "The Gong Lab"
 ---
 
-## AI, clinical informatics, and evidence-driven oncology research
+## AI, clinical informatics, and evidence-driven oncology research at Yale
 
-The Gong Lab develops AI and informatics methods to improve clinical trial matching, real-world evidence generation, oncology trial design, and equitable access to precision cancer care.
+The Gong Lab at Yale School of Medicine develops artificial intelligence and clinical informatics methods to improve cancer clinical trial matching, real-world evidence generation, oncology trial design, and equitable access to precision cancer care.
 
-Our work integrates electronic health records, clinical natural language processing, large language models, real-world data, and clinical trial evidence synthesis.
+Led by [Guannan Gong, PhD](people.qmd), our work integrates electronic health records, clinical natural language processing, large language models, real-world data, and clinical trial evidence synthesis. We build tools that help research teams identify eligible patients faster, structure complex trial eligibility criteria at scale, and translate biomedical data into actionable insights for clinicians and trial sponsors.
+
+### What we work on
+
+- **Clinical trial patient matching** — Real-time, OMOP-based systems that prescreen cancer patients against open trials using structured and unstructured EHR data
+- **Eligibility criteria intelligence** — NLP and LLM pipelines to structure, cluster, and visualize trial eligibility criteria across disease domains
+- **Real-world data & EHR science** — Computational phenotyping, data integrity assessment, and predictive modeling for clinical research
+- **Equitable trial access** — Methods designed to reach underserved and underrepresented patient populations
+
+### Affiliations
+
+- [Yale School of Medicine](https://medicine.yale.edu/) — Medical Oncology and Hematology
+- [Yale Cancer Center](https://www.yalecancercenter.org/)
+- [Yale Computational Biology and Biomedical Informatics](https://cbb.yale.edu/)
+
+### Recent highlights
+
+- **2026** — Clinical Trial Patient Matching system validated across 29 oncology trials (*JCO Clinical Cancer Informatics*)
+- **2025** — Blavatnik Accelerator Award for translational biotech innovation
+- **2024** — Yale New Haven Health Innovation Award for clinical trial patient matching
+
+[Learn about our research →](research.qmd){.btn .btn-primary}

@@ -1,0 +1,45 @@
+---
+title: "Join the Lab"
+---
+
+The Gong Lab welcomes trainees and collaborators who are passionate about using AI and informatics to improve cancer care and clinical trial access.
+
+## Who we're looking for
+
+We are interested in working with students and researchers who have backgrounds in:
+
+- Computer science, bioinformatics, or computational biology
+- Clinical informatics and health data science
+- Natural language processing and machine learning
+- Biostatistics and epidemiology
+- Medical oncology or related clinical fields
+
+Prior experience with electronic health records, OMOP, or clinical NLP is helpful but not required for all projects.
+
+## Opportunities
+
+**Yale graduate students & postdocs**  
+We collaborate with programs in Computational Biology and Biomedical Informatics (CBB), Biomedical Informatics & Data Science, and related Yale departments. Contact Dr. Gong to discuss rotation projects, thesis work, or postdoctoral opportunities.
+
+**Yale medical and undergraduate students**  
+We regularly mentor students on clinical informatics projects, including eligibility criteria NLP, trial matching evaluation, and EHR data analysis. Prior students have contributed to published protocols and software tools.
+
+**Visiting scholars & collaborators**  
+We welcome collaborations with investigators at other institutions working on clinical trial informatics, real-world evidence, or oncology AI.
+
+## How to apply
+
+Send an email to [guannan.gong@yale.edu](mailto:guannan.gong@yale.edu) with:
+
+1. A brief description of your research interests
+2. Your CV or resume
+3. Relevant code samples or publications (if available)
+
+We review inquiries on a rolling basis and will follow up if there is a potential fit.
+
+## Related programs at Yale
+
+- [Yale Computational Biology and Biomedical Informatics (CBB)](https://cbb.yale.edu/)
+- [Yale Cancer Center](https://www.yalecancercenter.org/)
+- [Yale MD-PhD and MHS in Clinical Informatics & Data Science](https://medicine.yale.edu/edu/mhs-degree/clinical-informatics-data-science/)
+- [Yale Tsai CITY — entrepreneurship & innovation](https://city.yale.edu/)

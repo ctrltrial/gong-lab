@@ -1,0 +1,76 @@
+---
+title: "Projects"
+---
+
+## Clinical Trial Patient Matching (CTPM)
+
+Our flagship research platform for semiautomated prescreening of cancer patients against open clinical trials.
+
+**What it does**
+
+- Ingests structured and unstructured EHR data via the OMOP common data model
+- Applies hybrid rules-based and NLP logic to evaluate inclusion/exclusion criteria
+- Delivers real-time feasibility assessments and patient-trial match lists
+- Scales across trials, cancer types, and health system deployments
+
+**Impact**
+
+Validated on metastatic colorectal cancer trials and extended to 29 oncology studies. Supported by Yale Cancer Center T-TARE and YNHH Innovation Awards.
+
+[Read the 2026 publication →](publications.qmd)
+
+---
+
+## CtrlTrial
+
+[CtrlTrial](https://www.ctrltrial.com/) is a translational platform founded by Dr. Gong to bring AI-driven clinical trial matching from Yale research into health system practice.
+
+**Capabilities**
+
+- Real-time patient prescreening from Epic and integrated clinical systems
+- Clinician and trial team notifications when patients become eligible
+- Customizable search parameters for trial-specific criteria
+- Analytics on enrollment trends and diversity metrics
+- API integration with EHR, pathology, laboratory, and CTMS systems
+
+CtrlTrial was developed through Yale Tsai CITY programs and validated in pilot deployments with Yale New Haven Health. It won the **2024 Yale New Haven Health Innovation Award**.
+
+[Visit CtrlTrial →](https://www.ctrltrial.com/)
+
+---
+
+## Eligibility Criteria Visualizer
+
+An NLP framework for structuring and exploring clinical trial eligibility criteria at scale.
+
+**Approach**
+
+1. Unsupervised clustering of semantically similar criteria from trial protocols
+2. LLM-based summarization of criteria clusters
+3. Interactive visualization of patterns by disease domain and over time
+
+The prototype analyzed **53,000+ oncology trials** from ClinicalTrials.gov, including breast, lung, and GI oncology domains. Open-source tools are available via the [CriteriaVisualizer repository](https://github.com/ctrltrial/CriteriaVisualizer).
+
+Funded by the Yale New Haven Health Innovation Award (2024–2026).
+
+[Read the study protocol →](https://www.researchprotocols.org/2026/1/e86425)
+
+---
+
+## Real-time EHR data integrity
+
+A collaborative project with the Schulz Lab assessing whether real-time EHR extracts meet the quality standards required for clinical research—benchmarking latency, completeness, and accuracy against research-grade datasets.
+
+[Publication →](https://pubmed.ncbi.nlm.nih.gov/41511976/)
+
+---
+
+## Research informatics infrastructure
+
+We contribute to Yale-wide informatics initiatives including:
+
+- Patient recruitment workflows connecting primary care providers through the EMR and patient portal
+- Real-time specimen identification for collaborative biobanking
+- Computational phenotyping pipelines for precision medicine
+
+These projects build on Dr. Gong's experience at the Yale/YNHH Center for Outcomes Research and Evaluation (CORE).

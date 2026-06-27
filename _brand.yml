@@ -1,0 +1,7 @@
+color:
+  primary: "#00356B"
+  secondary: "#286DC0"
+  success: "#006747"
+  info: "#63AAFF"
+  warning: "#BD5319"
+  danger: "#C0362C"

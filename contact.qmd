@@ -1,0 +1,33 @@
+---
+title: "Contact"
+---
+
+## Guannan Gong, PhD
+
+**Associate Research Scientist**  
+Department of Medical Oncology and Hematology  
+Yale School of Medicine  
+Yale Cancer Center
+
+**Email:** [guannan.gong@yale.edu](mailto:guannan.gong@yale.edu)  
+**Phone:** (203) 200-2328
+
+**Office address**  
+Yale Cancer Center  
+333 Cedar Street  
+New Haven, CT 06510
+
+---
+
+## Links
+
+- [Yale School of Medicine profile](https://medicine.yale.edu/profile/guannan-gong/)
+- [Yale CBB profile](https://cbb.yale.edu/people/guannan-gong)
+- [ORCID](https://orcid.org/0000-0002-4972-6705)
+- [CtrlTrial](https://www.ctrltrial.com/)
+
+---
+
+## Collaboration inquiries
+
+For research collaborations, data partnerships, or clinical trial informatics projects, please email Dr. Gong directly. For trainee and student opportunities, see [Join the Lab](join.qmd).

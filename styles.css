@@ -1,1 +1,38 @@
-/* css styles */
+/* Gong Lab — Yale branding */
+
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid var(--bs-primary);
+}
+
+h3 {
+  margin-top: 1.5rem;
+  color: var(--bs-primary);
+}
+
+.page-footer {
+  font-size: 0.9rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+table {
+  margin-top: 1rem;
+}
+
+hr {
+  margin: 2rem 0;
+  opacity: 0.2;
+}
+
+blockquote {
+  border-left: 4px solid var(--bs-secondary);
+  padding-left: 1rem;
+  color: #555;
+}

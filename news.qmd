@@ -1,0 +1,54 @@
+---
+title: "News"
+---
+
+## 2026
+
+**March 2026** — AI in Cancer Workshop: Advancing Precision Medicine through Interdisciplinary Innovation  
+Yale School of Medicine hosted a workshop on AI applications in cancer care and precision medicine.  
+[Yale profile news →](https://medicine.yale.edu/profile/guannan-gong/)
+
+**January 2026** — Clinical Trial Patient Matching published in *JCO Clinical Cancer Informatics*  
+Our CTPM system for semiautomated cancer trial prescreening was published, reporting validation across 29 oncology trials.  
+[Read the paper →](https://pubmed.ncbi.nlm.nih.gov/41512229/)
+
+---
+
+## 2025
+
+**December 2025** — Research presented at San Antonio Breast Cancer Symposium  
+Yale Cancer Center research advances, including informatics work relevant to trial matching, were presented at SABCS.  
+[Yale Cancer Center →](https://www.yalecancercenter.org/)
+
+**July 2025** — Blavatnik Accelerator Award  
+Dr. Gong's translational biotech project was selected for the 2025 Blavatnik Accelerator Awards through Yale Ventures.  
+[Yale Ventures announcement →](https://ventures.yale.edu/)
+
+**May 2025** — Eligibility criteria NLP framework protocol published  
+Our JMIR Research Protocols paper describing the LLM-based eligibility criteria visualizer was published.  
+[Read the protocol →](https://www.researchprotocols.org/2026/1/e86425)
+
+---
+
+## 2024
+
+**November 2024** — Yale Cancer Center Catchment Area Research Award  
+Awarded for research advancing clinical trial access in the Yale Cancer Center catchment area.
+
+**June 2024** — Yale New Haven Health Innovation Award  
+CtrlTrial's Clinical Trial Patient Matching system received the YNHH Innovation Award.  
+[YNHH announcement →](https://www.ynhhs.org/news/yale-new-haven-health-and-yale-university-celebrate-innovation-awards)
+
+---
+
+## 2022
+
+**October 2022** — Yale Cancer Center T-TARE Award  
+Supported development and validation of the OMOP-based clinical trial patient matching pipeline.
+
+---
+
+## 2020
+
+**May 2020** — Startup Yale Rothberg Catalyzer Award  
+Recognized early work on AI-driven clinical trial recruitment through Yale Tsai CITY.
