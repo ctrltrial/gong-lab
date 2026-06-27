@@ -1,0 +1,9 @@
+---
+title: "The Gong Lab"
+---
+
+## AI, clinical informatics, and evidence-driven oncology research
+
+The Gong Lab develops AI and informatics methods to improve clinical trial matching, real-world evidence generation, oncology trial design, and equitable access to precision cancer care.
+
+Our work integrates electronic health records, clinical natural language processing, large language models, real-world data, and clinical trial evidence synthesis.
