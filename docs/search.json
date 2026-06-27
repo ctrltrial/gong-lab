@@ -42,6 +42,139 @@
     "text": "The Gong Lab at Yale School of Medicine develops artificial intelligence and clinical informatics methods to improve cancer clinical trial matching, real-world evidence generation, oncology trial design, and equitable access to precision cancer care.\nLed by Guannan Gong, PhD, our work integrates electronic health records, clinical natural language processing, large language models, real-world data, and clinical trial evidence synthesis. We build tools that help research teams identify eligible patients faster, structure complex trial eligibility criteria at scale, and translate biomedical data into actionable insights for clinicians and trial sponsors.\n\n\n\nClinical trial patient matching — Real-time, OMOP-based systems that prescreen cancer patients against open trials using structured and unstructured EHR data\nEligibility criteria intelligence — NLP and LLM pipelines to structure, cluster, and visualize trial eligibility criteria across disease domains\nReal-world data & EHR science — Computational phenotyping, data integrity assessment, and predictive modeling for clinical research\nEquitable trial access — Methods designed to reach underserved and underrepresented patient populations\n\n\n\n\n\nYale School of Medicine — Medical Oncology and Hematology\nYale Cancer Center\nYale Computational Biology and Biomedical Informatics\n\n\n\n\n\n2026 — Clinical Trial Patient Matching system validated across 29 oncology trials (JCO Clinical Cancer Informatics)\n2025 — Blavatnik Accelerator Award for translational biotech innovation\n2024 — Yale New Haven Health Innovation Award for clinical trial patient matching\n\nLearn about our research →"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Selected peer-reviewed publications from the Gong Lab. A full list is available on Dr. Gong’s Yale profile."
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2026",
+    "text": "2026\nClinical Trial Patient Matching: A Real-Time, Common Data Model and Artificial Intelligence–Driven System for Semiautomated Patient Prescreening in Cancer Clinical Trials\nGong G, Liu J, Pandya S, Taborda C, Wiesendanger N, Price N, Byron W, Coppi A, Young P, Wiess C, Dunning H, Barganier C, Brodeur R, Fischbach N, LoRusso P, Pusztai L, Kim S, Rozenblit M, Cecchini M, Mongiu A, Mendez L, Kaftan E, Torre C, Krumholz H, Krop I, Schulz W, Lustberg M, Kunz P.\nJCO Clinical Cancer Informatics 2026; 10:e2500262.\nPubMed · DOI: 10.1200/CCI-25-00262\nDeveloped and validated a hybrid rules- and NLP-based CTPM pipeline using OMOP-standardized EHR data, demonstrating improved recruitment efficiency across 29 oncology trials.\n\nAssessment of the integrity of real-time electronic health record data used in clinical research\nLiu J, Pandya S, Coppi A, Young H, Krumholz H, Schulz W, Gong G.\nPLOS ONE 2026; 21:e0340287.\nPubMed · DOI: 10.1371/journal.pone.0340287\nBenchmarked the accuracy and reliability of real-time EHR data for secondary use in clinical research.\n\nA Natural Language Processing Framework for Structuring and Visualizing Clinical Trial Eligibility Criteria at Scale: Protocol for a Quantitative Study\nXie J, Parikh J, Liu J, Pandya S, Gong G.\nJMIR Research Protocols 2026.\nFull text\nProtocol describing an LLM-enabled pipeline for clustering, summarizing, and visualizing eligibility criteria from ClinicalTrials.gov oncology trials."
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\nClinical characteristics and outcomes for 7,995 patients with SARS-CoV-2 infection\nMcPadden J, Warner F, Young HP, Hurley NC, Pulk RA, Singh A, Durant TJS, Gong G, Desai N, Haimovich A, Taylor RA, Gunel M, Dela Cruz CS, Farhadian SF, Siner J, Villanueva M, Churchwell K, Hsiao A, Torre CJ, Velazquez EJ, Herbst RS, Iwasaki A, Ko AI, Mortazavi BJ, Krumholz HM, Schulz WL.\nPLOS ONE 2021; 16:e0243291.\nPubMed · DOI: 10.1371/journal.pone.0243291\nLarge cohort study of COVID-19 patients at Yale New Haven Health examining clinical characteristics and outcomes."
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\nPatient factors associated with SARS-CoV-2 in an admitted emergency department population\nHaimovich A, Warner F, Young HP, Ravindra NG, Sehanobish A, Gong G, Wilson FP, van Dijk D, Schulz W, Taylor R.\nJournal of the American College of Emergency Physicians Open 2020; 1:569–577.\nPubMed · DOI: 10.1002/emp2.12145\nIdentified patient-level factors associated with SARS-CoV-2 positivity in admitted ED patients.\n\nBridging the Collaboration Gap: Real-time Identification of Clinical Specimens for Biomedical Research\nDurant TJS, Gong G, Price N, Schulz WL.\nJournal of Pathology Informatics 2020; 11:14.\nPubMed · DOI: 10.4103/jpi.jpi_15_20\nDescribed a real-time system for identifying clinical specimens to support collaborative biomedical research."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Associate Research Scientist\nDepartment of Medical Oncology and Hematology\nYale School of Medicine\nYale Cancer Center\nEmail: guannan.gong@yale.edu\nPhone: (203) 200-2328\nOffice address\nYale Cancer Center\n333 Cedar Street\nNew Haven, CT 06510"
+  },
+  {
+    "objectID": "contact.html#guannan-gong-phd",
+    "href": "contact.html#guannan-gong-phd",
+    "title": "Contact",
+    "section": "",
+    "text": "Associate Research Scientist\nDepartment of Medical Oncology and Hematology\nYale School of Medicine\nYale Cancer Center\nEmail: guannan.gong@yale.edu\nPhone: (203) 200-2328\nOffice address\nYale Cancer Center\n333 Cedar Street\nNew Haven, CT 06510"
+  },
+  {
+    "objectID": "contact.html#links",
+    "href": "contact.html#links",
+    "title": "Contact",
+    "section": "Links",
+    "text": "Links\n\nYale School of Medicine profile\nYale CBB profile\nORCID\nCtrlTrial"
+  },
+  {
+    "objectID": "contact.html#collaboration-inquiries",
+    "href": "contact.html#collaboration-inquiries",
+    "title": "Contact",
+    "section": "Collaboration inquiries",
+    "text": "Collaboration inquiries\nFor research collaborations, data partnerships, or clinical trial informatics projects, please email Dr. Gong directly. For trainee and student opportunities, see Join the Lab."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Our flagship research platform for semiautomated prescreening of cancer patients against open clinical trials.\nWhat it does\n\nIngests structured and unstructured EHR data via the OMOP common data model\nApplies hybrid rules-based and NLP logic to evaluate inclusion/exclusion criteria\nDelivers real-time feasibility assessments and patient-trial match lists\nScales across trials, cancer types, and health system deployments\n\nImpact\nValidated on metastatic colorectal cancer trials and extended to 29 oncology studies. Supported by Yale Cancer Center T-TARE and YNHH Innovation Awards.\nRead the 2026 publication →"
+  },
+  {
+    "objectID": "projects.html#clinical-trial-patient-matching-ctpm",
+    "href": "projects.html#clinical-trial-patient-matching-ctpm",
+    "title": "Projects",
+    "section": "",
+    "text": "Our flagship research platform for semiautomated prescreening of cancer patients against open clinical trials.\nWhat it does\n\nIngests structured and unstructured EHR data via the OMOP common data model\nApplies hybrid rules-based and NLP logic to evaluate inclusion/exclusion criteria\nDelivers real-time feasibility assessments and patient-trial match lists\nScales across trials, cancer types, and health system deployments\n\nImpact\nValidated on metastatic colorectal cancer trials and extended to 29 oncology studies. Supported by Yale Cancer Center T-TARE and YNHH Innovation Awards.\nRead the 2026 publication →"
+  },
+  {
+    "objectID": "projects.html#ctrltrial",
+    "href": "projects.html#ctrltrial",
+    "title": "Projects",
+    "section": "CtrlTrial",
+    "text": "CtrlTrial\nCtrlTrial is a translational platform founded by Dr. Gong to bring AI-driven clinical trial matching from Yale research into health system practice.\nCapabilities\n\nReal-time patient prescreening from Epic and integrated clinical systems\nClinician and trial team notifications when patients become eligible\nCustomizable search parameters for trial-specific criteria\nAnalytics on enrollment trends and diversity metrics\nAPI integration with EHR, pathology, laboratory, and CTMS systems\n\nCtrlTrial was developed through Yale Tsai CITY programs and validated in pilot deployments with Yale New Haven Health. It won the 2024 Yale New Haven Health Innovation Award.\nVisit CtrlTrial →"
+  },
+  {
+    "objectID": "projects.html#eligibility-criteria-visualizer",
+    "href": "projects.html#eligibility-criteria-visualizer",
+    "title": "Projects",
+    "section": "Eligibility Criteria Visualizer",
+    "text": "Eligibility Criteria Visualizer\nAn NLP framework for structuring and exploring clinical trial eligibility criteria at scale.\nApproach\n\nUnsupervised clustering of semantically similar criteria from trial protocols\nLLM-based summarization of criteria clusters\nInteractive visualization of patterns by disease domain and over time\n\nThe prototype analyzed 53,000+ oncology trials from ClinicalTrials.gov, including breast, lung, and GI oncology domains. Open-source tools are available via the CriteriaVisualizer repository.\nFunded by the Yale New Haven Health Innovation Award (2024–2026).\nRead the study protocol →"
+  },
+  {
+    "objectID": "projects.html#real-time-ehr-data-integrity",
+    "href": "projects.html#real-time-ehr-data-integrity",
+    "title": "Projects",
+    "section": "Real-time EHR data integrity",
+    "text": "Real-time EHR data integrity\nA collaborative project with the Schulz Lab assessing whether real-time EHR extracts meet the quality standards required for clinical research—benchmarking latency, completeness, and accuracy against research-grade datasets.\nPublication →"
+  },
+  {
+    "objectID": "projects.html#research-informatics-infrastructure",
+    "href": "projects.html#research-informatics-infrastructure",
+    "title": "Projects",
+    "section": "Research informatics infrastructure",
+    "text": "Research informatics infrastructure\nWe contribute to Yale-wide informatics initiatives including:\n\nPatient recruitment workflows connecting primary care providers through the EMR and patient portal\nReal-time specimen identification for collaborative biobanking\nComputational phenotyping pipelines for precision medicine\n\nThese projects build on Dr. Gong’s experience at the Yale/YNHH Center for Outcomes Research and Evaluation (CORE)."
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "The Gong Lab welcomes trainees and collaborators who are passionate about using AI and informatics to improve cancer care and clinical trial access."
+  },
+  {
+    "objectID": "join.html#who-were-looking-for",
+    "href": "join.html#who-were-looking-for",
+    "title": "Join the Lab",
+    "section": "Who we’re looking for",
+    "text": "Who we’re looking for\nWe are interested in working with students and researchers who have backgrounds in:\n\nComputer science, bioinformatics, or computational biology\nClinical informatics and health data science\nNatural language processing and machine learning\nBiostatistics and epidemiology\nMedical oncology or related clinical fields\n\nPrior experience with electronic health records, OMOP, or clinical NLP is helpful but not required for all projects."
+  },
+  {
+    "objectID": "join.html#opportunities",
+    "href": "join.html#opportunities",
+    "title": "Join the Lab",
+    "section": "Opportunities",
+    "text": "Opportunities\nYale graduate students & postdocs\nWe collaborate with programs in Computational Biology and Biomedical Informatics (CBB), Biomedical Informatics & Data Science, and related Yale departments. Contact Dr. Gong to discuss rotation projects, thesis work, or postdoctoral opportunities.\nYale medical and undergraduate students\nWe regularly mentor students on clinical informatics projects, including eligibility criteria NLP, trial matching evaluation, and EHR data analysis. Prior students have contributed to published protocols and software tools.\nVisiting scholars & collaborators\nWe welcome collaborations with investigators at other institutions working on clinical trial informatics, real-world evidence, or oncology AI."
+  },
+  {
+    "objectID": "join.html#how-to-apply",
+    "href": "join.html#how-to-apply",
+    "title": "Join the Lab",
+    "section": "How to apply",
+    "text": "How to apply\nSend an email to guannan.gong@yale.edu with:\n\nA brief description of your research interests\nYour CV or resume\nRelevant code samples or publications (if available)\n\nWe review inquiries on a rolling basis and will follow up if there is a potential fit."
+  },
+  {
+    "objectID": "join.html#related-programs-at-yale",
+    "href": "join.html#related-programs-at-yale",
+    "title": "Join the Lab",
+    "section": "Related programs at Yale",
+    "text": "Related programs at Yale\n\nYale Computational Biology and Biomedical Informatics (CBB)\nYale Cancer Center\nYale MD-PhD and MHS in Clinical Informatics & Data Science\nYale Tsai CITY — entrepreneurship & innovation"
+  },
+  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News",
@@ -82,34 +215,6 @@
     "title": "News",
     "section": "2020",
     "text": "2020\nMay 2020 — Startup Yale Rothberg Catalyzer Award\nRecognized early work on AI-driven clinical trial recruitment through Yale Tsai CITY."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Associate Research Scientist\nDepartment of Medical Oncology and Hematology\nYale School of Medicine\nYale Cancer Center\nEmail: guannan.gong@yale.edu\nPhone: (203) 200-2328\nOffice address\nYale Cancer Center\n333 Cedar Street\nNew Haven, CT 06510"
-  },
-  {
-    "objectID": "contact.html#guannan-gong-phd",
-    "href": "contact.html#guannan-gong-phd",
-    "title": "Contact",
-    "section": "",
-    "text": "Associate Research Scientist\nDepartment of Medical Oncology and Hematology\nYale School of Medicine\nYale Cancer Center\nEmail: guannan.gong@yale.edu\nPhone: (203) 200-2328\nOffice address\nYale Cancer Center\n333 Cedar Street\nNew Haven, CT 06510"
-  },
-  {
-    "objectID": "contact.html#links",
-    "href": "contact.html#links",
-    "title": "Contact",
-    "section": "Links",
-    "text": "Links\n\nYale School of Medicine profile\nYale CBB profile\nORCID\nCtrlTrial"
-  },
-  {
-    "objectID": "contact.html#collaboration-inquiries",
-    "href": "contact.html#collaboration-inquiries",
-    "title": "Contact",
-    "section": "Collaboration inquiries",
-    "text": "Collaboration inquiries\nFor research collaborations, data partnerships, or clinical trial informatics projects, please email Dr. Gong directly. For trainee and student opportunities, see Join the Lab."
   },
   {
     "objectID": "research.html",
@@ -159,110 +264,5 @@
     "title": "Research",
     "section": "Funding & support",
     "text": "Funding & support\nOur research is supported by the Yale Cancer Center Translational-Targeted Area of Research Excellence (T-TARE), Yale New Haven Health Innovation Awards, the Yale Cancer Center Catchment Area Research Award, and the Blavatnik Fund for Innovation at Yale."
-  },
-  {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "Join the Lab",
-    "section": "",
-    "text": "The Gong Lab welcomes trainees and collaborators who are passionate about using AI and informatics to improve cancer care and clinical trial access."
-  },
-  {
-    "objectID": "join.html#who-were-looking-for",
-    "href": "join.html#who-were-looking-for",
-    "title": "Join the Lab",
-    "section": "Who we’re looking for",
-    "text": "Who we’re looking for\nWe are interested in working with students and researchers who have backgrounds in:\n\nComputer science, bioinformatics, or computational biology\nClinical informatics and health data science\nNatural language processing and machine learning\nBiostatistics and epidemiology\nMedical oncology or related clinical fields\n\nPrior experience with electronic health records, OMOP, or clinical NLP is helpful but not required for all projects."
-  },
-  {
-    "objectID": "join.html#opportunities",
-    "href": "join.html#opportunities",
-    "title": "Join the Lab",
-    "section": "Opportunities",
-    "text": "Opportunities\nYale graduate students & postdocs\nWe collaborate with programs in Computational Biology and Biomedical Informatics (CBB), Biomedical Informatics & Data Science, and related Yale departments. Contact Dr. Gong to discuss rotation projects, thesis work, or postdoctoral opportunities.\nYale medical and undergraduate students\nWe regularly mentor students on clinical informatics projects, including eligibility criteria NLP, trial matching evaluation, and EHR data analysis. Prior students have contributed to published protocols and software tools.\nVisiting scholars & collaborators\nWe welcome collaborations with investigators at other institutions working on clinical trial informatics, real-world evidence, or oncology AI."
-  },
-  {
-    "objectID": "join.html#how-to-apply",
-    "href": "join.html#how-to-apply",
-    "title": "Join the Lab",
-    "section": "How to apply",
-    "text": "How to apply\nSend an email to guannan.gong@yale.edu with:\n\nA brief description of your research interests\nYour CV or resume\nRelevant code samples or publications (if available)\n\nWe review inquiries on a rolling basis and will follow up if there is a potential fit."
-  },
-  {
-    "objectID": "join.html#related-programs-at-yale",
-    "href": "join.html#related-programs-at-yale",
-    "title": "Join the Lab",
-    "section": "Related programs at Yale",
-    "text": "Related programs at Yale\n\nYale Computational Biology and Biomedical Informatics (CBB)\nYale Cancer Center\nYale MD-PhD and MHS in Clinical Informatics & Data Science\nYale Tsai CITY — entrepreneurship & innovation"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Our flagship research platform for semiautomated prescreening of cancer patients against open clinical trials.\nWhat it does\n\nIngests structured and unstructured EHR data via the OMOP common data model\nApplies hybrid rules-based and NLP logic to evaluate inclusion/exclusion criteria\nDelivers real-time feasibility assessments and patient-trial match lists\nScales across trials, cancer types, and health system deployments\n\nImpact\nValidated on metastatic colorectal cancer trials and extended to 29 oncology studies. Supported by Yale Cancer Center T-TARE and YNHH Innovation Awards.\nRead the 2026 publication →"
-  },
-  {
-    "objectID": "projects.html#clinical-trial-patient-matching-ctpm",
-    "href": "projects.html#clinical-trial-patient-matching-ctpm",
-    "title": "Projects",
-    "section": "",
-    "text": "Our flagship research platform for semiautomated prescreening of cancer patients against open clinical trials.\nWhat it does\n\nIngests structured and unstructured EHR data via the OMOP common data model\nApplies hybrid rules-based and NLP logic to evaluate inclusion/exclusion criteria\nDelivers real-time feasibility assessments and patient-trial match lists\nScales across trials, cancer types, and health system deployments\n\nImpact\nValidated on metastatic colorectal cancer trials and extended to 29 oncology studies. Supported by Yale Cancer Center T-TARE and YNHH Innovation Awards.\nRead the 2026 publication →"
-  },
-  {
-    "objectID": "projects.html#ctrltrial",
-    "href": "projects.html#ctrltrial",
-    "title": "Projects",
-    "section": "CtrlTrial",
-    "text": "CtrlTrial\nCtrlTrial is a translational platform founded by Dr. Gong to bring AI-driven clinical trial matching from Yale research into health system practice.\nCapabilities\n\nReal-time patient prescreening from Epic and integrated clinical systems\nClinician and trial team notifications when patients become eligible\nCustomizable search parameters for trial-specific criteria\nAnalytics on enrollment trends and diversity metrics\nAPI integration with EHR, pathology, laboratory, and CTMS systems\n\nCtrlTrial was developed through Yale Tsai CITY programs and validated in pilot deployments with Yale New Haven Health. It won the 2024 Yale New Haven Health Innovation Award.\nVisit CtrlTrial →"
-  },
-  {
-    "objectID": "projects.html#eligibility-criteria-visualizer",
-    "href": "projects.html#eligibility-criteria-visualizer",
-    "title": "Projects",
-    "section": "Eligibility Criteria Visualizer",
-    "text": "Eligibility Criteria Visualizer\nAn NLP framework for structuring and exploring clinical trial eligibility criteria at scale.\nApproach\n\nUnsupervised clustering of semantically similar criteria from trial protocols\nLLM-based summarization of criteria clusters\nInteractive visualization of patterns by disease domain and over time\n\nThe prototype analyzed 53,000+ oncology trials from ClinicalTrials.gov, including breast, lung, and GI oncology domains. Open-source tools are available via the CriteriaVisualizer repository.\nFunded by the Yale New Haven Health Innovation Award (2024–2026).\nRead the study protocol →"
-  },
-  {
-    "objectID": "projects.html#real-time-ehr-data-integrity",
-    "href": "projects.html#real-time-ehr-data-integrity",
-    "title": "Projects",
-    "section": "Real-time EHR data integrity",
-    "text": "Real-time EHR data integrity\nA collaborative project with the Schulz Lab assessing whether real-time EHR extracts meet the quality standards required for clinical research—benchmarking latency, completeness, and accuracy against research-grade datasets.\nPublication →"
-  },
-  {
-    "objectID": "projects.html#research-informatics-infrastructure",
-    "href": "projects.html#research-informatics-infrastructure",
-    "title": "Projects",
-    "section": "Research informatics infrastructure",
-    "text": "Research informatics infrastructure\nWe contribute to Yale-wide informatics initiatives including:\n\nPatient recruitment workflows connecting primary care providers through the EMR and patient portal\nReal-time specimen identification for collaborative biobanking\nComputational phenotyping pipelines for precision medicine\n\nThese projects build on Dr. Gong’s experience at the Yale/YNHH Center for Outcomes Research and Evaluation (CORE)."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Selected peer-reviewed publications from the Gong Lab. A full list is available on Dr. Gong’s Yale profile."
-  },
-  {
-    "objectID": "publications.html#section",
-    "href": "publications.html#section",
-    "title": "Publications",
-    "section": "2026",
-    "text": "2026\nClinical Trial Patient Matching: A Real-Time, Common Data Model and Artificial Intelligence–Driven System for Semiautomated Patient Prescreening in Cancer Clinical Trials\nGong G, Liu J, Pandya S, Taborda C, Wiesendanger N, Price N, Byron W, Coppi A, Young P, Wiess C, Dunning H, Barganier C, Brodeur R, Fischbach N, LoRusso P, Pusztai L, Kim S, Rozenblit M, Cecchini M, Mongiu A, Mendez L, Kaftan E, Torre C, Krumholz H, Krop I, Schulz W, Lustberg M, Kunz P.\nJCO Clinical Cancer Informatics 2026; 10:e2500262.\nPubMed · DOI: 10.1200/CCI-25-00262\nDeveloped and validated a hybrid rules- and NLP-based CTPM pipeline using OMOP-standardized EHR data, demonstrating improved recruitment efficiency across 29 oncology trials.\n\nAssessment of the integrity of real-time electronic health record data used in clinical research\nLiu J, Pandya S, Coppi A, Young H, Krumholz H, Schulz W, Gong G.\nPLOS ONE 2026; 21:e0340287.\nPubMed · DOI: 10.1371/journal.pone.0340287\nBenchmarked the accuracy and reliability of real-time EHR data for secondary use in clinical research.\n\nA Natural Language Processing Framework for Structuring and Visualizing Clinical Trial Eligibility Criteria at Scale: Protocol for a Quantitative Study\nXie J, Parikh J, Liu J, Pandya S, Gong G.\nJMIR Research Protocols 2026.\nFull text\nProtocol describing an LLM-enabled pipeline for clustering, summarizing, and visualizing eligibility criteria from ClinicalTrials.gov oncology trials."
-  },
-  {
-    "objectID": "publications.html#section-1",
-    "href": "publications.html#section-1",
-    "title": "Publications",
-    "section": "2021",
-    "text": "2021\nClinical characteristics and outcomes for 7,995 patients with SARS-CoV-2 infection\nMcPadden J, Warner F, Young HP, Hurley NC, Pulk RA, Singh A, Durant TJS, Gong G, Desai N, Haimovich A, Taylor RA, Gunel M, Dela Cruz CS, Farhadian SF, Siner J, Villanueva M, Churchwell K, Hsiao A, Torre CJ, Velazquez EJ, Herbst RS, Iwasaki A, Ko AI, Mortazavi BJ, Krumholz HM, Schulz WL.\nPLOS ONE 2021; 16:e0243291.\nPubMed · DOI: 10.1371/journal.pone.0243291\nLarge cohort study of COVID-19 patients at Yale New Haven Health examining clinical characteristics and outcomes."
-  },
-  {
-    "objectID": "publications.html#section-2",
-    "href": "publications.html#section-2",
-    "title": "Publications",
-    "section": "2020",
-    "text": "2020\nPatient factors associated with SARS-CoV-2 in an admitted emergency department population\nHaimovich A, Warner F, Young HP, Ravindra NG, Sehanobish A, Gong G, Wilson FP, van Dijk D, Schulz W, Taylor R.\nJournal of the American College of Emergency Physicians Open 2020; 1:569–577.\nPubMed · DOI: 10.1002/emp2.12145\nIdentified patient-level factors associated with SARS-CoV-2 positivity in admitted ED patients.\n\nBridging the Collaboration Gap: Real-time Identification of Clinical Specimens for Biomedical Research\nDurant TJS, Gong G, Price N, Schulz WL.\nJournal of Pathology Informatics 2020; 11:14.\nPubMed · DOI: 10.4103/jpi.jpi_15_20\nDescribed a real-time system for identifying clinical specimens to support collaborative biomedical research."
   }
 ]
