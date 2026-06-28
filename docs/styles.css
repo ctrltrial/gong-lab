@@ -1,14 +1,35 @@
 /* Gong Lab — Yale branding */
 
+.navbar-brand-container {
+  margin-left: 0 !important;
+  margin-right: 1rem !important;
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
 .navbar-brand img,
 .navbar-logo img {
-  max-height: 42px;
+  max-height: 32px;
   width: auto;
 }
 
 .navbar-brand {
   font-weight: 600;
   letter-spacing: 0.02em;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.navbar-title {
+  color: #ffffff !important;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.navbar-brand:hover .navbar-title {
+  color: #ffffff !important;
+  opacity: 0.92;
 }
 
 h2 {

@@ -9,8 +9,8 @@ website:
   favicon: images/favicon.png
   navbar:
     background: primary
-    logo: images/logo.png
-    logo-alt: "Yale School of Medicine"
+    logo: images/yale-logo.png
+    logo-alt: "Yale"
     logo-href: index.qmd
     left:
       - href: index.qmd
