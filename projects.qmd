@@ -66,6 +66,12 @@ Supported by the Yale New Haven Health Innovation Award.
 
 ## LEAD-ONC & evidence-driven trial design
 
+::: {.grid .project-profile}
+::: {.g-col-12 .g-col-md-4}
+![](images/projects/lead-onc.jpg){.project-image width=100% alt="LEAD-ONC evidence-driven trial design"}
+:::
+
+::: {.g-col-12 .g-col-md-8}
 An AI-assisted framework for automated extraction and harmonization of clinical trial data from oncology literature (**LEAD-ONC**), combined with **Learning from Literature** — integrating LLMs and Bayesian hierarchical modeling to inform oncology trial design from published evidence.
 
 **Goals**
@@ -77,6 +83,8 @@ An AI-assisted framework for automated extraction and harmonization of clinical 
 Related pending work includes NIH-funded integration and digitalization of clinical trial registries and literature for evidence synthesis.
 
 [LEAD-ONC preprint →](https://doi.org/10.48550/arXiv.2602.08172) · [Learning from Literature (in press) →](publications.qmd)
+:::
+:::
 
 ---
 
@@ -100,6 +108,12 @@ This work underpins all CTPM and real-world evidence pipelines that rely on live
 
 ## Digital oncology & real-world evidence
 
+::: {.grid .project-profile}
+::: {.g-col-12 .g-col-md-4}
+![](images/projects/digital-oncology.jpg){.project-image width=100% alt="Digital oncology and real-world evidence"}
+:::
+
+::: {.g-col-12 .g-col-md-8}
 AI-driven quality improvement and real-world evidence studies in breast and prostate oncology.
 
 **QI-ATIR** — An AI tool for automatically identifying high-risk recurrence in HR+, HER2− early breast cancer patients, supporting quality improvement in adjuvant therapy decisions. With Maryam Lustberg, MD, MPH.
@@ -111,11 +125,19 @@ AI-driven quality improvement and real-world evidence studies in breast and pros
 **Biomarker and genomic testing in prostate cancer** — Identifying gaps and implementing quality improvement solutions for biomarker and genomic testing. With William K. Oh, MD.
 
 Supported by Eli Lilly, ASCO, and Pfizer.
+:::
+:::
 
 ---
 
 ## Cancer equity & trial access
 
+::: {.grid .project-profile}
+::: {.g-col-12 .g-col-md-4}
+![](images/projects/cancer-equity.jpg){.project-image width=100% alt="Cancer equity and trial access"}
+:::
+
+::: {.g-col-12 .g-col-md-8}
 Research focused on equitable access to clinical trials, genetic testing, and biobanking.
 
 **AI-assisted navigation for hereditary breast cancer testing** — Mitigating disparities in genetic testing access through AI-assisted patient navigation. With Tracy A. Battaglia, MD, MPH (Susan G. Komen Foundation).
@@ -125,29 +147,53 @@ Research focused on equitable access to clinical trials, genetic testing, and bi
 **ImPACCT** — Improving participation in cancer clinical trials by addressing provider and patient barriers to enrollment among underrepresented groups. With Andrea Silber, MD (ASCO).
 
 **CTPM catchment-area disparities** — Deploying AI-based patient matching to identify and reduce enrollment disparities in the Yale Cancer Center catchment area.
+:::
+:::
 
 ---
 
 ## Precision medicine & genetics informatics
 
+::: {.grid .project-profile}
+::: {.g-col-12 .g-col-md-4}
+![](images/projects/precision-medicine.jpg){.project-image width=100% alt="Precision medicine and genetics informatics"}
+:::
+
+::: {.g-col-12 .g-col-md-8}
 **INSPIRE 2.0 genetics database** — Establishment and completion of a genetics database for the Yale Cancer Center catchment area. With Veda Giri, MD and Nancy Borstelmann, PhD, MPH.
 
 **DOD ENGAGEMENT study** — Leveraging AI to develop a genetics database of clinical and genetic factors to inform cancer risks and cascade testing in families.
 
 **Early-onset breast cancer cohort** — Clinical, genetic, family history, and reproductive differences in early- versus late-onset breast cancer in a diverse cohort.
+:::
+:::
 
 ---
 
 ## Adaptive education & emerging initiatives
 
+::: {.grid .project-profile}
+::: {.g-col-12 .g-col-md-4}
+![](images/projects/adaptive-education.jpg){.project-image width=100% alt="AI-powered adaptive education platform"}
+:::
+
+::: {.g-col-12 .g-col-md-8}
 **AI-powered adaptive education platform** — Optimizing first-line maintenance therapy education for HER2+ metastatic breast cancer (Pfizer).
 
 **AI-enabled clinical trial registry integration** — Pending NIH award to integrate and digitize clinical trial registries and literature for evidence synthesis and trial design. With Wei Wei as Co-PI.
+:::
+:::
 
 ---
 
 ## Research informatics infrastructure
 
+::: {.grid .project-profile}
+::: {.g-col-12 .g-col-md-4}
+![](images/projects/research-informatics.jpg){.project-image width=100% alt="Research informatics infrastructure"}
+:::
+
+::: {.g-col-12 .g-col-md-8}
 We contribute to Yale-wide informatics initiatives including:
 
 - Patient recruitment workflows connecting primary care providers through the EMR and patient portal
@@ -156,3 +202,5 @@ We contribute to Yale-wide informatics initiatives including:
 - Blockchain-based data integrity validation (TrialChain)
 
 These projects build on Dr. Gong's experience at Epic Systems, InterSystems, the Yale/YNHH Center for Outcomes Research and Evaluation (CORE), and over a decade of health IT development prior to joining Yale School of Medicine.
+:::
+:::
