@@ -71,3 +71,4 @@ We are grateful to former students and trainees who contributed to Gong Lab rese
 
 - **Justin Xie** — Yale College; clinical trial eligibility criteria NLP framework (*JMIR Research Protocols*, 2026)
 - **Jeet Parikh** — Yale College; clinical trial eligibility criteria NLP framework (*JMIR Research Protocols*, 2026)
+- **Sameer Pandya** — Data Scientist; clinical trial patient matching and real-world EHR data informatics
