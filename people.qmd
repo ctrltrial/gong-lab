@@ -51,20 +51,6 @@ Jessica Liu contributes to the Gong Lab's research on clinical trial patient mat
 
 ---
 
-## Collaborators
-
-The Gong Lab works closely with investigators across Yale and Yale New Haven Health, including:
-
-- **Wade Schulz, MD, PhD** — Clinical informatics and biomedical data science
-- **Harlan Krumholz, MD, SM** — Outcomes research and health data science
-- **Ian Krop, MD, PhD** — Medical oncology and clinical trials
-- **Maryam Lustberg, MD, MPH** — Breast oncology and survivorship
-- **Pamela Kunz, MD** — Gastrointestinal oncology
-
-We also collaborate with clinical trial teams, the Yale Cancer Center, and the Center for Outcomes Research and Evaluation (CORE).
-
----
-
 ## Alumni
 
 We are grateful to former students and trainees who contributed to Gong Lab research during their time at Yale.
