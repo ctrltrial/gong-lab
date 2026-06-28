@@ -4,7 +4,7 @@ title: "Projects"
 
 The Gong Lab leads and contributes to AI and informatics projects spanning clinical trial matching, real-world evidence, cancer equity, and digital oncology. Below are active and recent research initiatives.
 
-## Clinical Trial Patient Matching (CTPM)
+## Clinical Trial Patient Matching (CTPM) / [CtrlTrial](https://www.ctrltrial.com/)
 
 ::: {.grid .project-profile}
 ::: {.g-col-12 .g-col-md-4}
@@ -12,13 +12,15 @@ The Gong Lab leads and contributes to AI and informatics projects spanning clini
 :::
 
 ::: {.g-col-12 .g-col-md-8}
-Our flagship research platform for semiautomated prescreening of cancer patients against open clinical trials.
+**CTPM** is our flagship research platform for semiautomated prescreening of cancer patients against open clinical trials. **[CtrlTrial](https://www.ctrltrial.com/)** is the same technology, translated from Yale research into health system practice—founded by Dr. Gong to deploy AI-driven trial matching at scale.
 
 **What it does**
 
 - Ingests structured and unstructured EHR data via the OMOP common data model
 - Applies hybrid rules-based and NLP logic to evaluate inclusion/exclusion criteria
 - Delivers real-time feasibility assessments and patient-trial match lists
+- Prescreens patients from Epic and integrated clinical, pathology, laboratory, and CTMS systems
+- Notifies clinicians and trial teams when patients become eligible
 - Scales across trials, cancer types, and health system deployments
 
 **Related work**
@@ -28,35 +30,9 @@ Our flagship research platform for semiautomated prescreening of cancer patients
 - Prospective evaluation in hematologic malignancies (MDS and multiple myeloma)
 - Retrospective demographic studies of trial underrepresentation across NCI-designated cancer centers
 
-Supported by Yale Cancer Center T-TARE, YNHH Innovation Awards, Blavatnik Accelerator Award, and Yale Cancer Center Catchment Area Research Award.
+Developed through Yale research programs and Yale Tsai CITY entrepreneurship initiatives, with pilot validation at Yale New Haven Health. Supported by Yale Cancer Center T-TARE, YNHH Innovation Awards, Blavatnik Accelerator Award, Yale Cancer Center Catchment Area Research Award, Rothberg Catalyzer Prize, and Connecticut Innovations BioPipeline Award.
 
-[Read the 2026 publication →](publications.qmd)
-:::
-:::
-
----
-
-## CtrlTrial
-
-::: {.grid .project-profile}
-::: {.g-col-12 .g-col-md-4}
-![](images/projects/ctrltrial.jpg){.project-image width=100% alt="CtrlTrial platform"}
-:::
-
-::: {.g-col-12 .g-col-md-8}
-[CtrlTrial](https://www.ctrltrial.com/) is a translational platform founded by Dr. Gong to bring AI-driven clinical trial matching from Yale research into health system practice.
-
-**Capabilities**
-
-- Real-time patient prescreening from Epic and integrated clinical systems
-- Clinician and trial team notifications when patients become eligible
-- Customizable search parameters for trial-specific criteria
-- Analytics on enrollment trends and diversity metrics
-- API integration with EHR, pathology, laboratory, and CTMS systems
-
-Developed through Yale Tsai CITY entrepreneurship programs and validated in pilot deployments with Yale New Haven Health. Recipient of the Yale New Haven Health Innovation Award, Rothberg Catalyzer Prize, and Connecticut Innovations BioPipeline Award.
-
-[Visit CtrlTrial →](https://www.ctrltrial.com/)
+[Read the 2026 publication →](publications.qmd) · [Visit CtrlTrial →](https://www.ctrltrial.com/)
 :::
 :::
 

@@ -306,5 +306,12 @@
     "title": "Research",
     "section": "Funding & support",
     "text": "Funding & support\nOur research is supported by the Yale Cancer Center Translational-Targeted Area of Research Excellence (T-TARE), Yale New Haven Health Innovation Awards, the Yale Cancer Center Catchment Area Research Award, and the Blavatnik Fund for Innovation at Yale."
+  },
+  {
+    "objectID": "projects.html#clinical-trial-patient-matching-ctpm-ctrltrial",
+    "href": "projects.html#clinical-trial-patient-matching-ctpm-ctrltrial",
+    "title": "Projects",
+    "section": "Clinical Trial Patient Matching (CTPM) / CtrlTrial",
+    "text": "Clinical Trial Patient Matching (CTPM) / CtrlTrial\n\n\n\n\n\nCTPM is our flagship research platform for semiautomated prescreening of cancer patients against open clinical trials. CtrlTrial is the same technology, translated from Yale research into health system practice—founded by Dr. Gong to deploy AI-driven trial matching at scale.\nWhat it does\n\nIngests structured and unstructured EHR data via the OMOP common data model\nApplies hybrid rules-based and NLP logic to evaluate inclusion/exclusion criteria\nDelivers real-time feasibility assessments and patient-trial match lists\nPrescreens patients from Epic and integrated clinical, pathology, laboratory, and CTMS systems\nNotifies clinicians and trial teams when patients become eligible\nScales across trials, cancer types, and health system deployments\n\nRelated work\n\nCatchment-area deployment to reduce enrollment disparities in the Yale Cancer Center catchment area\nImPACCT: improving participation in cancer clinical trials among underrepresented patients\nProspective evaluation in hematologic malignancies (MDS and multiple myeloma)\nRetrospective demographic studies of trial underrepresentation across NCI-designated cancer centers\n\nDeveloped through Yale research programs and Yale Tsai CITY entrepreneurship initiatives, with pilot validation at Yale New Haven Health. Supported by Yale Cancer Center T-TARE, YNHH Innovation Awards, Blavatnik Accelerator Award, Yale Cancer Center Catchment Area Research Award, Rothberg Catalyzer Prize, and Connecticut Innovations BioPipeline Award.\nRead the 2026 publication → · Visit CtrlTrial →"
   }
 ]
