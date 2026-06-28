@@ -1,5 +1,11 @@
 /* Gong Lab — Yale branding */
 
+.navbar-brand img,
+.navbar-logo img {
+  max-height: 42px;
+  width: auto;
+}
+
 .navbar-brand {
   font-weight: 600;
   letter-spacing: 0.02em;
@@ -35,4 +41,65 @@ blockquote {
   border-left: 4px solid var(--bs-secondary);
   padding-left: 1rem;
   color: #555;
+}
+
+/* People page */
+.person-card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin: 1.5rem 0 2rem;
+}
+
+.person-photo {
+  border-radius: 8px;
+  object-fit: cover;
+  aspect-ratio: 1;
+  box-shadow: 0 2px 8px rgba(0, 53, 107, 0.15);
+}
+
+.person-info {
+  flex: 1;
+  min-width: 260px;
+}
+
+.person-info h3 {
+  margin-top: 0;
+}
+
+/* Projects page */
+.project-card {
+  display: grid;
+  grid-template-columns: minmax(220px, 340px) 1fr;
+  gap: 1.5rem;
+  align-items: start;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.project-image {
+  border-radius: 8px;
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  box-shadow: 0 2px 8px rgba(0, 53, 107, 0.12);
+}
+
+.project-body h2,
+.project-body h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  .person-card {
+    flex-direction: column;
+  }
+
+  .person-photo {
+    max-width: 220px;
+  }
+
+  .project-card {
+    grid-template-columns: 1fr;
+  }
 }

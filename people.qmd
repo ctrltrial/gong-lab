@@ -4,6 +4,10 @@ title: "People"
 
 ## Principal Investigator
 
+::: {.person-card}
+![](images/people/guannan-gong.png){.person-photo width=220 alt="Guannan Gong, PhD"}
+
+::: {.person-info}
 ### Guannan Gong, PhD
 
 **Associate Research Scientist**  
@@ -18,6 +22,8 @@ Guannan Gong leads research at the intersection of clinical informatics, artific
 - MS, Computer Science — Columbia University (2009)
 
 **Contact:** [guannan.gong@yale.edu](mailto:guannan.gong@yale.edu) · [Yale profile](https://medicine.yale.edu/profile/guannan-gong/) · [ORCID 0000-0002-4972-6705](https://orcid.org/0000-0002-4972-6705)
+:::
+:::
 
 ---
 
@@ -38,3 +44,5 @@ We also collaborate with clinical trial teams, the Yale Cancer Center, and the C
 ## Trainees & students
 
 We welcome motivated students and trainees interested in clinical NLP, machine learning, and oncology informatics. See [Join the Lab](join.qmd) for current opportunities.
+
+To add a lab member with a photo, copy the Principal Investigator block above and save their image to `images/people/`.

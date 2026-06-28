@@ -5,8 +5,12 @@ project:
 website:
   title: "Gong Lab"
   description: "The Gong Lab at Yale — AI, clinical informatics, and evidence-driven oncology research"
+  favicon: images/favicon.png
   navbar:
     background: primary
+    logo: images/logo.png
+    logo-alt: "Yale School of Medicine"
+    logo-href: index.qmd
     left:
       - href: index.qmd
         text: Home
@@ -32,3 +36,4 @@ format:
           <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
           <meta http-equiv="Pragma" content="no-cache">
           <meta http-equiv="Expires" content="0">
+          <link rel="apple-touch-icon" href="images/apple-touch-icon.png">

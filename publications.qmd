@@ -2,24 +2,57 @@
 title: "Publications"
 ---
 
-Selected peer-reviewed publications from the Gong Lab. A full list is available on [Dr. Gong's Yale profile](https://medicine.yale.edu/profile/guannan-gong/).
+Selected publications from the Gong Lab. A full bibliography is available on [Dr. Gong's Yale profile](https://medicine.yale.edu/profile/guannan-gong/).
 
-## 2026
+## In press & forthcoming
 
-**Clinical Trial Patient Matching: A Real-Time, Common Data Model and Artificial Intelligence–Driven System for Semiautomated Patient Prescreening in Cancer Clinical Trials**
+**Learning from Literature: Integrating LLMs and Bayesian Hierarchical Modeling for Oncology Trial Design**
 
-Gong G, Liu J, Pandya S, Taborda C, Wiesendanger N, Price N, Byron W, Coppi A, Young P, Wiess C, Dunning H, Barganier C, Brodeur R, Fischbach N, LoRusso P, Pusztai L, Kim S, Rozenblit M, Cecchini M, Mongiu A, Mendez L, Kaftan E, Torre C, Krumholz H, Krop I, Schulz W, Lustberg M, Kunz P.
+Gong G, Roychoudhury S, Meisner A, Pusztai L, Goldberg SB, Wei W.
+
+*JCO Clinical Cancer Informatics*. In press.  
+[arXiv](https://doi.org/10.48550/arXiv.2602.08172)
+
+Integrates large language models with Bayesian hierarchical modeling to support evidence-driven oncology clinical trial design from published literature.
+
+---
+
+**Evaluating Underrepresentation in Cancer Clinical Trial Enrollment across Three NCI-Designated Cancer Centers: A Retrospective Demographic Study**
+
+Gong G, Liu J, Syed M, Worley K, Pandya S, Taborda C, Mendez L, Battaglia T, Osterman TJ, Reid SA, Mazo Canola M, Creighton SL, Nahm Zozus M, Park BH, Padalecki SS, Kunz PL, Lustberg M.
+
+*JCO Oncology Advances*. In press.
+
+Retrospective analysis of demographic underrepresentation in cancer clinical trial enrollment across three NCI-designated cancer centers.
+
+---
+
+**The Fundamentals of Digital Oncology: Key Technologies in Digital Oncology**
+
+Liu J, Lustberg M, Gong G.
+
+In: *Digital Oncology* (series editors: Matti Aapro, Pietro Presti). Elsevier/Academic Press, 2026. Under review.
+
+Book chapter on foundational technologies in digital oncology.
+
+## Peer-reviewed original research
+
+### 2026
+
+**CTPM: A Real-Time, Common Data Model and Artificial Intelligence–Driven System for Automated Patient Pre-Screening in Cancer Clinical Trials**
+
+Gong G, Liu J, Pandya S, Taborda C, Wiesendanger N, Price N, Byran W, Coppi A, Young P, Wiess C, Barganier C, Brodeur R, Fischbach N, LoRusso P, Pusztai L, Kim SY, Rozenblit M, Cecchini M, Mongiu A, Mendez L, Kaftan E, Torre C Jr, Krumholz H, Krop I, Schulz W, Lustberg M, Kunz PL.
 
 *JCO Clinical Cancer Informatics* 2026; 10:e2500262.  
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41512229/) · [DOI: 10.1200/CCI-25-00262](https://doi.org/10.1200/CCI-25-00262)
 
-Developed and validated a hybrid rules- and NLP-based CTPM pipeline using OMOP-standardized EHR data, demonstrating improved recruitment efficiency across 29 oncology trials.
+Developed and validated a hybrid rules- and NLP-based CTPM pipeline using OMOP-standardized EHR data across 29 oncology trials.
 
 ---
 
-**Assessment of the integrity of real-time electronic health record data used in clinical research**
+**Assessment of the Integrity of Real-Time Electronic Health Record Data Used in Clinical Research**
 
-Liu J, Pandya S, Coppi A, Young H, Krumholz H, Schulz W, Gong G.
+Liu J, Pandya S, Coppi A, Young HP, Krumholz H, Schulz W, Gong G.
 
 *PLOS ONE* 2026; 21:e0340287.  
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41511976/) · [DOI: 10.1371/journal.pone.0340287](https://doi.org/10.1371/journal.pone.0340287)
@@ -32,40 +65,121 @@ Benchmarked the accuracy and reliability of real-time EHR data for secondary use
 
 Xie J, Parikh J, Liu J, Pandya S, Gong G.
 
-*JMIR Research Protocols* 2026.  
-[Full text](https://www.researchprotocols.org/2026/1/e86425)
+*JMIR Research Protocols* 2026; 15:e86425.  
+[Full text](https://www.researchprotocols.org/2026/1/e86425) · [DOI: 10.2196/86425](https://doi.org/10.2196/86425)
 
-Protocol describing an LLM-enabled pipeline for clustering, summarizing, and visualizing eligibility criteria from ClinicalTrials.gov oncology trials.
+Protocol for an LLM-enabled pipeline to cluster, summarize, and visualize eligibility criteria from ClinicalTrials.gov oncology trials.
 
-## 2021
+### 2021
 
-**Clinical characteristics and outcomes for 7,995 patients with SARS-CoV-2 infection**
+**Clinical Characteristics and Outcomes for 7,995 Patients with SARS-CoV-2 Infection**
 
-McPadden J, Warner F, Young HP, Hurley NC, Pulk RA, Singh A, Durant TJS, Gong G, Desai N, Haimovich A, Taylor RA, Gunel M, Dela Cruz CS, Farhadian SF, Siner J, Villanueva M, Churchwell K, Hsiao A, Torre CJ, Velazquez EJ, Herbst RS, Iwasaki A, Ko AI, Mortazavi BJ, Krumholz HM, Schulz WL.
+McPadden J, Warner F, Young HP, Hurley NC, Pulk RA, Singh A, Durant TJS, Gong G, Desai N, Haimovich A, Taylor RA, Gunel M, Dela Cruz CS, Farhadian SF, Siner J, Villanueva M, Churchwell K, Hsiao A, Torre CJ Jr, Velazquez EJ, Herbst RS, Iwasaki A, Ko AI, Mortazavi BJ, Krumholz HM, Schulz WL.
 
-*PLOS ONE* 2021; 16:e0243291.  
+*PLoS ONE* 2021; 16:e0243291.  
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33788846/) · [DOI: 10.1371/journal.pone.0243291](https://doi.org/10.1371/journal.pone.0243291)
 
-Large cohort study of COVID-19 patients at Yale New Haven Health examining clinical characteristics and outcomes.
-
-## 2020
-
-**Patient factors associated with SARS-CoV-2 in an admitted emergency department population**
-
-Haimovich A, Warner F, Young HP, Ravindra NG, Sehanobish A, Gong G, Wilson FP, van Dijk D, Schulz W, Taylor R.
-
-*Journal of the American College of Emergency Physicians Open* 2020; 1:569–577.  
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/32838371/) · [DOI: 10.1002/emp2.12145](https://doi.org/10.1002/emp2.12145)
-
-Identified patient-level factors associated with SARS-CoV-2 positivity in admitted ED patients.
+Large cohort study of COVID-19 patients at Yale New Haven Health.
 
 ---
 
-**Bridging the Collaboration Gap: Real-time Identification of Clinical Specimens for Biomedical Research**
+**Next Generation Phenotyping in Clinical Trial Based on Real-World Data**
+
+Gong G.
+
+PhD dissertation, Yale Graduate School of Arts and Sciences, 2021.  
+[Yale EliScholar](https://elischolar.library.yale.edu/gsas_dissertations/336)
+
+Dissertation on computational phenotyping for clinical trials using real-world data. Advisor: Harlan Krumholz, MD, SM.
+
+### 2020
+
+**Patient Factors Associated with SARS-CoV-2 in an Admitted Emergency Department Population**
+
+Haimovich A, Warner F, Young HP, Ravindra NG, Sehanobish A, Gong G, Wilson FP, van Dijk D, Schulz W, Taylor RA.
+
+*J Am Coll Emerg Physicians Open* 2020; 1:569–577.  
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/32838371/) · [DOI: 10.1002/emp2.12145](https://doi.org/10.1002/emp2.12145)
+
+---
+
+**Bridging the Collaboration Gap: Real-Time Identification of Clinical Specimens for Biomedical Research**
 
 Durant TJS, Gong G, Price N, Schulz WL.
 
-*Journal of Pathology Informatics* 2020; 11:14.  
+*J Pathol Inform* 2020; 11:14.  
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32477620/) · [DOI: 10.4103/jpi.jpi_15_20](https://doi.org/10.4103/jpi.jpi_15_20)
 
-Described a real-time system for identifying clinical specimens to support collaborative biomedical research.
+## Preprints & under review
+
+**LEAD-ONC: An AI-Assisted Framework for Automated Extraction and Harmonization of Clinical Trial Data from Oncology Literature**
+
+Song M, Wei W, Gong G.
+
+Under review. [arXiv:2602.08172](https://doi.org/10.48550/arXiv.2602.08172)
+
+Framework for automated extraction and harmonization of oncology clinical trial data from published literature.
+
+---
+
+**TrialChain: A Blockchain-Based Platform to Validate Data Integrity in Large Biomedical Research Studies**
+
+Dai H, Young HP, Durant TJS, Gong G, Kang M, Krumholz HM, Schulz WL, Jiang L.
+
+*arXiv* 2018. [arXiv:1807.03662](https://arxiv.org/abs/1807.03662)
+
+## Selected conference abstracts & presentations
+
+**Improving Identification and Enrollment in HR+/HER2− Breast Cancer Trials Using AI Clinical Trial Patient Matching Tool**
+
+Gong G, Liu J, Pandya S, Xie J, Parikh J, Fischbach N, Kunz P, Pusztai L, Lustberg M.
+
+San Antonio Breast Cancer Symposium, San Antonio, TX, 2025.
+
+---
+
+**Evaluating Underrepresentation in Breast Cancer Clinical Trial Enrollment at Yale Cancer Center: A Retrospective Demographic Study**
+
+Gong G, Liu J, Taylor M, Pandya S, Taborda C, Xie J, Parikh J, Wei W, Stefanou M, Kunz P, Fischbach N, Battaglia T, Mendez L, Gaddy J, Krop I, LoRusso P, Lustberg M, Silber A.
+
+San Antonio Breast Cancer Symposium, San Antonio, TX, 2025.
+
+---
+
+**Early Outcomes from the IMPACCT Project (Improving Participation in Cancer Clinical Trials)**
+
+Taylor M, Stefanou M, Gong G, Lustberg M, Silber A.
+
+San Antonio Breast Cancer Symposium, San Antonio, TX, 2025.
+
+---
+
+**Prospective Evaluation of an AI-Powered Clinical Trial Patient Matching (CTPM) System in Myelodysplastic Syndromes and Multiple Myeloma**
+
+Taborda C, Gong G, Douglas G, Liu J, Incoom A, Stahl M, Podoltsev N, Bewersdorf JP, Getz T, Stempel J, Kewan T, Lanino L, Bidikian A, Parker T, Bar N, Browning S, Halene S, Neparidze N, Zeidan A, Mendez L.
+
+67th ASH Annual Meeting. *Blood* 2025; 146(Suppl 1):1086.
+
+---
+
+**Real-World Persistence with CDK4/6 Inhibitors in Early and Metastatic HR-Positive, HER2-Negative Breast Cancer**
+
+Gong G, Brown BR, Pandya S, Caetano M, Legare R, Taghzout S, Ramos M, Liu J, Hood A, Zummo M, Lustberg M.
+
+NCCN Annual Conference, 2026.
+
+---
+
+**Automated Eligibility Screening for Adjuvant CDK4/6 Inhibitors in High-Risk HR+/HER2− Early Breast Cancer Using Natural Language Processing**
+
+Liu J, Pandya S, Brown BR, Caetano ML, Taghzout S, Ramos M, Hood A, Zummo M, Wei W, Legare R, Lustberg M, Gong G.
+
+Accepted, ASCO Annual Meeting, 2026.
+
+---
+
+**Learning from the Literature: An AI-Assisted Bayesian Framework for Evidence-Driven Oncology Trial Design**
+
+Gong G, Roychoudhury S, Meisner A, Pusztai L, Goldberg SB, Wei W.
+
+Accepted, ASCO Annual Meeting, 2026.
