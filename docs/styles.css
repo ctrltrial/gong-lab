@@ -44,12 +44,13 @@ blockquote {
 }
 
 /* People page */
-.person-card {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.5rem;
-  align-items: flex-start;
+.person-profile {
   margin: 1.5rem 0 2rem;
+  align-items: start;
+}
+
+.person-profile h3 {
+  margin-top: 0;
 }
 
 .person-photo {
@@ -57,24 +58,13 @@ blockquote {
   object-fit: cover;
   aspect-ratio: 1;
   box-shadow: 0 2px 8px rgba(0, 53, 107, 0.15);
-}
-
-.person-info {
-  flex: 1;
-  min-width: 260px;
-}
-
-.person-info h3 {
-  margin-top: 0;
+  max-width: 220px;
 }
 
 /* Projects page */
-.project-card {
-  display: grid;
-  grid-template-columns: minmax(220px, 340px) 1fr;
-  gap: 1.5rem;
-  align-items: start;
+.project-profile {
   margin: 1.5rem 0 2.5rem;
+  align-items: start;
 }
 
 .project-image {
@@ -85,21 +75,9 @@ blockquote {
   box-shadow: 0 2px 8px rgba(0, 53, 107, 0.12);
 }
 
-.project-body h2,
-.project-body h3 {
-  margin-top: 0;
-}
-
 @media (max-width: 768px) {
-  .person-card {
-    flex-direction: column;
-  }
-
   .person-photo {
     max-width: 220px;
-  }
-
-  .project-card {
-    grid-template-columns: 1fr;
+    margin-bottom: 1rem;
   }
 }

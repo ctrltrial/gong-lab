@@ -183,9 +183,11 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="principal-investigator" class="level2">
 <h2 class="anchored" data-anchor-id="principal-investigator">Principal Investigator</h2>
-<div class="person-card">
-<p><img src="images/people/guannan-gong.png" class="person-photo img-fluid" alt="Guannan Gong, PhD" width="220"></p>
-<section id="guannan-gong-phd" class="level3 person-info">
+<div class="grid person-profile">
+<div class="g-col-12 g-col-md-3">
+<p><img src="images/people/guannan-gong.png" class="person-photo img-fluid" style="width:100.0%" alt="Guannan Gong, PhD"></p>
+</div>
+<section id="guannan-gong-phd" class="level3 g-col-12 g-col-md-9">
 <h3 class="anchored" data-anchor-id="guannan-gong-phd">Guannan Gong, PhD</h3>
 <p><strong>Associate Research Scientist</strong><br>
 Department of Medical Oncology and Hematology<br>
@@ -296,7 +298,7 @@ Yale School of Medicine · Yale Cancer Center</p>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/ctrltrial\.github\.io\/gong-lab\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

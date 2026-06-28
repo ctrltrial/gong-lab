@@ -5,6 +5,7 @@ project:
 website:
   title: "Gong Lab"
   description: "The Gong Lab at Yale — AI, clinical informatics, and evidence-driven oncology research"
+  site-url: https://ctrltrial.github.io/gong-lab/
   favicon: images/favicon.png
   navbar:
     background: primary

@@ -6,10 +6,12 @@ The Gong Lab leads and contributes to AI and informatics projects spanning clini
 
 ## Clinical Trial Patient Matching (CTPM)
 
-::: {.project-card}
+::: {.grid .project-profile}
+::: {.g-col-12 .g-col-md-4}
 ![](images/projects/clinical-trial-patient-matching.jpg){.project-image width=100% alt="Clinical Trial Patient Matching system"}
+:::
 
-::: {.project-body}
+::: {.g-col-12 .g-col-md-8}
 Our flagship research platform for semiautomated prescreening of cancer patients against open clinical trials.
 
 **What it does**
@@ -36,10 +38,12 @@ Supported by Yale Cancer Center T-TARE, YNHH Innovation Awards, Blavatnik Accele
 
 ## CtrlTrial
 
-::: {.project-card}
+::: {.grid .project-profile}
+::: {.g-col-12 .g-col-md-4}
 ![](images/projects/ctrltrial.jpg){.project-image width=100% alt="CtrlTrial platform"}
+:::
 
-::: {.project-body}
+::: {.g-col-12 .g-col-md-8}
 [CtrlTrial](https://www.ctrltrial.com/) is a translational platform founded by Dr. Gong to bring AI-driven clinical trial matching from Yale research into health system practice.
 
 **Capabilities**
@@ -60,10 +64,12 @@ Developed through Yale Tsai CITY entrepreneurship programs and validated in pilo
 
 ## Eligibility Criteria Visualizer
 
-::: {.project-card}
+::: {.grid .project-profile}
+::: {.g-col-12 .g-col-md-4}
 ![](images/projects/eligibility-criteria-visualizer.jpg){.project-image width=100% alt="Eligibility Criteria Visualizer"}
+:::
 
-::: {.project-body}
+::: {.g-col-12 .g-col-md-8}
 An NLP framework for structuring and exploring clinical trial eligibility criteria at scale.
 
 **Approach**
@@ -100,10 +106,12 @@ Related pending work includes NIH-funded integration and digitalization of clini
 
 ## Real-time EHR data integrity
 
-::: {.project-card}
+::: {.grid .project-profile}
+::: {.g-col-12 .g-col-md-4}
 ![](images/projects/ehr-data-integrity.jpg){.project-image width=100% alt="Real-time EHR data integrity project"}
+:::
 
-::: {.project-body}
+::: {.g-col-12 .g-col-md-8}
 A collaborative project with the Schulz Lab assessing whether real-time EHR extracts meet the quality standards required for clinical research—benchmarking latency, completeness, and accuracy against research-grade datasets.
 
 This work underpins all CTPM and real-world evidence pipelines that rely on live EHR feeds.

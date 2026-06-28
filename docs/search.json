@@ -116,21 +116,21 @@
     "href": "projects.html#clinical-trial-patient-matching-ctpm",
     "title": "Projects",
     "section": "Clinical Trial Patient Matching (CTPM)",
-    "text": "Clinical Trial Patient Matching (CTPM)\n\n\n\nOur flagship research platform for semiautomated prescreening of cancer patients against open clinical trials.\nWhat it does\n\nIngests structured and unstructured EHR data via the OMOP common data model\nApplies hybrid rules-based and NLP logic to evaluate inclusion/exclusion criteria\nDelivers real-time feasibility assessments and patient-trial match lists\nScales across trials, cancer types, and health system deployments\n\nRelated work\n\nCatchment-area deployment to reduce enrollment disparities in the Yale Cancer Center catchment area\nImPACCT: improving participation in cancer clinical trials among underrepresented patients\nProspective evaluation in hematologic malignancies (MDS and multiple myeloma)\nRetrospective demographic studies of trial underrepresentation across NCI-designated cancer centers\n\nSupported by Yale Cancer Center T-TARE, YNHH Innovation Awards, Blavatnik Accelerator Award, and Yale Cancer Center Catchment Area Research Award.\nRead the 2026 publication →"
+    "text": "Clinical Trial Patient Matching (CTPM)\n\n\n\n\n\nOur flagship research platform for semiautomated prescreening of cancer patients against open clinical trials.\nWhat it does\n\nIngests structured and unstructured EHR data via the OMOP common data model\nApplies hybrid rules-based and NLP logic to evaluate inclusion/exclusion criteria\nDelivers real-time feasibility assessments and patient-trial match lists\nScales across trials, cancer types, and health system deployments\n\nRelated work\n\nCatchment-area deployment to reduce enrollment disparities in the Yale Cancer Center catchment area\nImPACCT: improving participation in cancer clinical trials among underrepresented patients\nProspective evaluation in hematologic malignancies (MDS and multiple myeloma)\nRetrospective demographic studies of trial underrepresentation across NCI-designated cancer centers\n\nSupported by Yale Cancer Center T-TARE, YNHH Innovation Awards, Blavatnik Accelerator Award, and Yale Cancer Center Catchment Area Research Award.\nRead the 2026 publication →"
   },
   {
     "objectID": "projects.html#ctrltrial",
     "href": "projects.html#ctrltrial",
     "title": "Projects",
     "section": "CtrlTrial",
-    "text": "CtrlTrial\n\n\n\nCtrlTrial is a translational platform founded by Dr. Gong to bring AI-driven clinical trial matching from Yale research into health system practice.\nCapabilities\n\nReal-time patient prescreening from Epic and integrated clinical systems\nClinician and trial team notifications when patients become eligible\nCustomizable search parameters for trial-specific criteria\nAnalytics on enrollment trends and diversity metrics\nAPI integration with EHR, pathology, laboratory, and CTMS systems\n\nDeveloped through Yale Tsai CITY entrepreneurship programs and validated in pilot deployments with Yale New Haven Health. Recipient of the Yale New Haven Health Innovation Award, Rothberg Catalyzer Prize, and Connecticut Innovations BioPipeline Award.\nVisit CtrlTrial →"
+    "text": "CtrlTrial\n\n\n\n\n\nCtrlTrial is a translational platform founded by Dr. Gong to bring AI-driven clinical trial matching from Yale research into health system practice.\nCapabilities\n\nReal-time patient prescreening from Epic and integrated clinical systems\nClinician and trial team notifications when patients become eligible\nCustomizable search parameters for trial-specific criteria\nAnalytics on enrollment trends and diversity metrics\nAPI integration with EHR, pathology, laboratory, and CTMS systems\n\nDeveloped through Yale Tsai CITY entrepreneurship programs and validated in pilot deployments with Yale New Haven Health. Recipient of the Yale New Haven Health Innovation Award, Rothberg Catalyzer Prize, and Connecticut Innovations BioPipeline Award.\nVisit CtrlTrial →"
   },
   {
     "objectID": "projects.html#eligibility-criteria-visualizer",
     "href": "projects.html#eligibility-criteria-visualizer",
     "title": "Projects",
     "section": "Eligibility Criteria Visualizer",
-    "text": "Eligibility Criteria Visualizer\n\n\n\nAn NLP framework for structuring and exploring clinical trial eligibility criteria at scale.\nApproach\n\nUnsupervised clustering of semantically similar criteria from trial protocols\nLLM-based summarization of criteria clusters\nInteractive visualization of patterns by disease domain and over time\n\nThe prototype analyzed 53,000+ oncology trials from ClinicalTrials.gov. Open-source tools are available via the CriteriaVisualizer repository.\nSupported by the Yale New Haven Health Innovation Award.\nRead the study protocol →"
+    "text": "Eligibility Criteria Visualizer\n\n\n\n\n\nAn NLP framework for structuring and exploring clinical trial eligibility criteria at scale.\nApproach\n\nUnsupervised clustering of semantically similar criteria from trial protocols\nLLM-based summarization of criteria clusters\nInteractive visualization of patterns by disease domain and over time\n\nThe prototype analyzed 53,000+ oncology trials from ClinicalTrials.gov. Open-source tools are available via the CriteriaVisualizer repository.\nSupported by the Yale New Haven Health Innovation Award.\nRead the study protocol →"
   },
   {
     "objectID": "projects.html#lead-onc-evidence-driven-trial-design",
@@ -144,7 +144,7 @@
     "href": "projects.html#real-time-ehr-data-integrity",
     "title": "Projects",
     "section": "Real-time EHR data integrity",
-    "text": "Real-time EHR data integrity\n\n\n\nA collaborative project with the Schulz Lab assessing whether real-time EHR extracts meet the quality standards required for clinical research—benchmarking latency, completeness, and accuracy against research-grade datasets.\nThis work underpins all CTPM and real-world evidence pipelines that rely on live EHR feeds.\nPublication →"
+    "text": "Real-time EHR data integrity\n\n\n\n\n\nA collaborative project with the Schulz Lab assessing whether real-time EHR extracts meet the quality standards required for clinical research—benchmarking latency, completeness, and accuracy against research-grade datasets.\nThis work underpins all CTPM and real-world evidence pipelines that rely on live EHR feeds.\nPublication →"
   },
   {
     "objectID": "projects.html#digital-oncology-real-world-evidence",

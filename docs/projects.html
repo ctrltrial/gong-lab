@@ -191,9 +191,11 @@ ul.task-list li input[type="checkbox"] {
 <p>The Gong Lab leads and contributes to AI and informatics projects spanning clinical trial matching, real-world evidence, cancer equity, and digital oncology. Below are active and recent research initiatives.</p>
 <section id="clinical-trial-patient-matching-ctpm" class="level2">
 <h2 class="anchored" data-anchor-id="clinical-trial-patient-matching-ctpm">Clinical Trial Patient Matching (CTPM)</h2>
-<div class="project-card">
+<div class="grid project-profile">
+<div class="g-col-12 g-col-md-4">
 <p><img src="images/projects/clinical-trial-patient-matching.jpg" class="project-image img-fluid" style="width:100.0%" alt="Clinical Trial Patient Matching system"></p>
-<div class="project-body">
+</div>
+<div class="g-col-12 g-col-md-8">
 <p>Our flagship research platform for semiautomated prescreening of cancer patients against open clinical trials.</p>
 <p><strong>What it does</strong></p>
 <ul>
@@ -217,9 +219,11 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="ctrltrial" class="level2">
 <h2 class="anchored" data-anchor-id="ctrltrial">CtrlTrial</h2>
-<div class="project-card">
+<div class="grid project-profile">
+<div class="g-col-12 g-col-md-4">
 <p><img src="images/projects/ctrltrial.jpg" class="project-image img-fluid" style="width:100.0%" alt="CtrlTrial platform"></p>
-<div class="project-body">
+</div>
+<div class="g-col-12 g-col-md-8">
 <p><a href="https://www.ctrltrial.com/">CtrlTrial</a> is a translational platform founded by Dr.&nbsp;Gong to bring AI-driven clinical trial matching from Yale research into health system practice.</p>
 <p><strong>Capabilities</strong></p>
 <ul>
@@ -237,9 +241,11 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="eligibility-criteria-visualizer" class="level2">
 <h2 class="anchored" data-anchor-id="eligibility-criteria-visualizer">Eligibility Criteria Visualizer</h2>
-<div class="project-card">
+<div class="grid project-profile">
+<div class="g-col-12 g-col-md-4">
 <p><img src="images/projects/eligibility-criteria-visualizer.jpg" class="project-image img-fluid" style="width:100.0%" alt="Eligibility Criteria Visualizer"></p>
-<div class="project-body">
+</div>
+<div class="g-col-12 g-col-md-8">
 <p>An NLP framework for structuring and exploring clinical trial eligibility criteria at scale.</p>
 <p><strong>Approach</strong></p>
 <ol type="1">
@@ -269,9 +275,11 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="real-time-ehr-data-integrity" class="level2">
 <h2 class="anchored" data-anchor-id="real-time-ehr-data-integrity">Real-time EHR data integrity</h2>
-<div class="project-card">
+<div class="grid project-profile">
+<div class="g-col-12 g-col-md-4">
 <p><img src="images/projects/ehr-data-integrity.jpg" class="project-image img-fluid" style="width:100.0%" alt="Real-time EHR data integrity project"></p>
-<div class="project-body">
+</div>
+<div class="g-col-12 g-col-md-8">
 <p>A collaborative project with the Schulz Lab assessing whether real-time EHR extracts meet the quality standards required for clinical research—benchmarking latency, completeness, and accuracy against research-grade datasets.</p>
 <p>This work underpins all CTPM and real-world evidence pipelines that rely on live EHR feeds.</p>
 <p><a href="https://pubmed.ncbi.nlm.nih.gov/41511976/">Publication →</a></p>
@@ -399,7 +407,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/ctrltrial\.github\.io\/gong-lab\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

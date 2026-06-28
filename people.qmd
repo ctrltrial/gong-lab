@@ -4,10 +4,12 @@ title: "People"
 
 ## Principal Investigator
 
-::: {.person-card}
-![](images/people/guannan-gong.png){.person-photo width=220 alt="Guannan Gong, PhD"}
+::: {.grid .person-profile}
+::: {.g-col-12 .g-col-md-3}
+![](images/people/guannan-gong.png){.person-photo width=100% alt="Guannan Gong, PhD"}
+:::
 
-::: {.person-info}
+::: {.g-col-12 .g-col-md-9}
 ### Guannan Gong, PhD
 
 **Associate Research Scientist**  
