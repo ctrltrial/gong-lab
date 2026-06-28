@@ -57,6 +57,11 @@ h3 {
   font-size: 0.9rem;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.nav-footer-center {
+  text-align: center;
 }
 
 table {

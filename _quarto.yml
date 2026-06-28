@@ -23,7 +23,9 @@ website:
       - join.qmd
       - contact.qmd
   page-footer:
-    center: "The Gong Lab · Yale School of Medicine · Yale Cancer Center"
+    center: |
+      The Gong Lab · Yale School of Medicine · Yale Cancer Center  
+      © 2026 The Gong Lab. All rights reserved.
 
 format:
   html:
