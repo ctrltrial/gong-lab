@@ -9,27 +9,14 @@
 }
 
 .navbar-brand.navbar-brand-logo {
-  display: inline-flex !important;
-  align-items: center;
-  gap: 0.6rem;
   padding-top: 0;
   padding-bottom: 0;
 }
 
 .navbar-brand img,
 .navbar-logo img {
-  max-height: 38px;
+  max-height: 40px;
   width: auto;
-}
-
-/* Yale wordmark beside the shield logo */
-.navbar-brand.navbar-brand-logo::after {
-  content: "";
-  display: block;
-  height: 26px;
-  width: 76px;
-  background: url("images/yale-logo.png") no-repeat center / contain;
-  flex-shrink: 0;
 }
 
 .navbar-brand:not(.navbar-brand-logo) {
