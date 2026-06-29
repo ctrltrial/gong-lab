@@ -1,0 +1,44 @@
+---
+title: "Funding"
+---
+
+The Gong Lab is grateful for research and innovation support from the following organizations:
+
+::: {.funding-grid}
+[![Yale Cancer Center](images/funding/yale-cancer-center.svg)](https://www.yalecancercenter.org/)
+
+[![Yale New Haven Health](images/funding/yale-new-haven-health.svg)](https://www.ynhhs.org/)
+
+[![Tsai CITY at Yale](images/funding/tsai-city.svg)](https://city.yale.edu/)
+
+[![Eli Lilly and Company](images/funding/eli-lilly.svg)](https://www.lilly.com/)
+
+[![Blavatnik Fund for Innovation at Yale](images/funding/blavatnik-fund.svg)](https://ventures.yale.edu/)
+
+[![Connecticut Innovations](images/funding/connecticut-innovations.svg)](https://ctinnovations.com/)
+
+[![ASCO](images/funding/asco.svg)](https://www.asco.org/)
+
+[![Pfizer](images/funding/pfizer.svg)](https://www.pfizer.com/)
+
+[![Susan G. Komen](images/funding/susan-g-komen.svg)](https://www.komen.org/)
+
+[![NIH National Library of Medicine](images/funding/nih-nlm.svg)](https://www.nlm.nih.gov/)
+
+[![U.S. Department of Defense](images/funding/us-dod.svg)](https://www.defense.gov/)
+:::
+
+## Current & recent support
+
+Our work has been supported through awards and collaborations including:
+
+- **Yale Cancer Center** — Translational-Targeted Area of Research Excellence (T-TARE) and Catchment Area Research Awards
+- **Yale New Haven Health** — Innovation Award for Clinical Trial Patient Matching
+- **Tsai CITY at Yale** — Rothberg Catalyzer Prize, Summer Fellowship, and Student Catalyst Award
+- **Blavatnik Fund for Innovation at Yale** — Accelerator Award for AI-powered clinical trial matching
+- **Connecticut Innovations** — BioPipeline and CTNext Entrepreneur Innovation Awards
+- **Eli Lilly** — Quality improvement initiatives in breast oncology
+- **ASCO & Pfizer** — Clinical trial participation and biomarker testing research
+- **Susan G. Komen Foundation** — AI-assisted navigation for hereditary breast cancer testing
+- **NIH / National Library of Medicine** — AI-enabled integration of clinical trial registries and literature
+- **U.S. Department of Defense** — Genetics and cascade testing research (ENGAGEMENT study)

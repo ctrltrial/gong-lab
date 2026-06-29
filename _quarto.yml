@@ -17,6 +17,7 @@ website:
         text: Home
       - people.qmd
       - research.qmd
+      - funding.qmd
       - publications.qmd
       - projects.qmd
       - news.qmd

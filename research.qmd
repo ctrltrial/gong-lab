@@ -46,7 +46,3 @@ We design matching systems with diversity and equity as explicit goals—recogni
 | NLP / AI | Clinical NLP, large language models, hybrid rules + ML pipelines |
 | Data sources | EHR (Epic), pathology, laboratory, CTMS, ClinicalTrials.gov |
 | Domains | Oncology clinical trials, real-world evidence, outcomes research |
-
-## Funding & support
-
-Our research is supported by the Yale Cancer Center Translational-Targeted Area of Research Excellence (T-TARE), Yale New Haven Health Innovation Awards, the Yale Cancer Center Catchment Area Research Award, and the Blavatnik Fund for Innovation at Yale.

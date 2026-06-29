@@ -43,8 +43,6 @@ Guannan Gong leads research at the intersection of clinical informatics, artific
 Yale Cancer Center  
 Yale School of Medicine
 
-Jessica Liu contributes to the Gong Lab's research on clinical trial patient matching, real-world evidence, and oncology informatics. Her work supports development and evaluation of the Clinical Trial Patient Matching (CTPM) system, real-time EHR data pipelines, and related digital oncology initiatives at Yale Cancer Center.
-
 **Contact:** [jessica.liu.jl3722@yale.edu](mailto:jessica.liu.jl3722@yale.edu) · [Yale profile](https://medicine.yale.edu/profile/jessica-liu-jl3722/)
 :::
 :::
