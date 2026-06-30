@@ -1,11 +1,13 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 website:
   title: "Gong Lab"
   description: "The Gong Lab at Yale — AI, clinical informatics, and evidence-driven oncology research"
-  site-url: https://ctrltrial.github.io/gong-lab/
+  site-url: https://gonglab.org/
   favicon: images/favicon.png
   navbar:
     background: primary
