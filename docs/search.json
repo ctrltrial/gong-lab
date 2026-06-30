@@ -88,7 +88,7 @@
     "href": "funding.html#current-recent-support",
     "title": "Funding",
     "section": "Current & recent support",
-    "text": "Current & recent support\nOur work has been supported through awards and collaborations including:\n\nYale Cancer Center — Translational-Targeted Area of Research Excellence (T-TARE) and Catchment Area Research Awards\nYale New Haven Health — Innovation Award for Clinical Trial Patient Matching\nTsai CITY at Yale — Rothberg Catalyzer Prize, Summer Fellowship, and Student Catalyst Award\nBlavatnik Fund for Innovation at Yale — Accelerator Award for AI-powered clinical trial matching\nConnecticut Innovations — BioPipeline and CTNext Entrepreneur Innovation Awards\nEli Lilly — Quality improvement initiatives in breast oncology\nASCO & Pfizer — Clinical trial participation and biomarker testing research\nSusan G. Komen Foundation — AI-assisted navigation for hereditary breast cancer testing"
+    "text": "Current & recent support\nOur work has been supported through awards and collaborations including:\n\nYale Cancer Center — Translational-Targeted Area of Research Excellence (T-TARE) and Catchment Area Research Awards\nYale New Haven Health — Innovation Award for Clinical Trial Patient Matching\nTsai CITY at Yale — Rothberg Catalyzer Prize, Summer Fellowship, and Student Catalyst Award\nBlavatnik Fund for Innovation at Yale — Accelerator Award for AI-powered clinical trial matching\nConnecticut Innovations — BioPipeline and CTNext Entrepreneur Innovation Awards\nEli Lilly — Quality improvement initiatives in breast oncology\nASCO & Pfizer — Optimizing Biomarker and Genomic Testing in Prostate Cancer: Identifying Gaps and Implementing Quality Improvement Solutions\nSusan G. Komen Foundation — AI-assisted navigation for hereditary breast cancer testing"
   },
   {
     "objectID": "projects.html",
@@ -287,7 +287,6 @@
     "text": "Eligibility criteria intelligence\nTrial eligibility criteria are complex, heterogeneous, and difficult to compare across protocols. We build scalable NLP frameworks that:\n\nExtract and normalize eligibility text from clinical trial registries\nCluster semantically similar criteria using embedding-based methods\nSummarize criteria patterns with large language models\nVisualize domain-level trends through interactive web interfaces\n\nThis work supports automated patient matching and evidence-based trial design by revealing recurring inclusion and exclusion patterns across oncology domains (e.g., breast, lung, and GI malignancies)."
   },
   {
-<<<<<<< HEAD
     "objectID": "research.html#real-world-data-ehr-science",
     "href": "research.html#real-world-data-ehr-science",
     "title": "Research",
@@ -307,12 +306,5 @@
     "title": "Research",
     "section": "Methods & technologies",
     "text": "Methods & technologies\n\n\n\n\n\n\n\nArea\nMethods\n\n\n\n\nData standards\nOMOP CDM, FHIR integration\n\n\nNLP / AI\nClinical NLP, large language models, hybrid rules + ML pipelines\n\n\nData sources\nEHR (Epic), pathology, laboratory, CTMS, ClinicalTrials.gov\n\n\nDomains\nOncology clinical trials, real-world evidence, outcomes research"
-=======
-    "objectID": "funding.html#current-recent-support",
-    "href": "funding.html#current-recent-support",
-    "title": "Funding",
-    "section": "Current & recent support",
-    "text": "Current & recent support\nOur work has been supported through awards and collaborations including:\n\nYale Cancer Center — Translational-Targeted Area of Research Excellence (T-TARE) and Catchment Area Research Awards\nYale New Haven Health — Innovation Award for Clinical Trial Patient Matching\nTsai CITY at Yale — Rothberg Catalyzer Prize, Summer Fellowship, and Student Catalyst Award\nBlavatnik Fund for Innovation at Yale — Accelerator Award for AI-powered clinical trial matching\nConnecticut Innovations — BioPipeline and CTNext Entrepreneur Innovation Awards\nEli Lilly — Quality improvement initiatives in breast oncology\nASCO & Pfizer — Optimizing Biomarker and Genomic Testing in Prostate Cancer: Identifying Gaps and Implementing Quality Improvement Solutions\nSusan G. Komen Foundation — AI-assisted navigation for hereditary breast cancer testing"
->>>>>>> ad055df (Correct ASCO and Pfizer funding description on Funding page.)
   }
 ]
