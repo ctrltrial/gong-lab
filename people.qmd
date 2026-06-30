@@ -47,6 +47,19 @@ Yale School of Medicine
 :::
 :::
 
+::: {.grid .person-profile}
+::: {.g-col-12 .g-col-md-3}
+![](images/people/robert-ke.png){.person-photo width=100% alt="Robert Ke"}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+### Robert Ke
+
+**Graduate Student and Research Assistant**  
+Yale School of Public Health
+:::
+:::
+
 ---
 
 ## Alumni
@@ -55,4 +68,4 @@ We are grateful to former students and trainees who contributed to Gong Lab rese
 
 - **Justin Xie** — Yale College; clinical trial eligibility criteria NLP framework (*JMIR Research Protocols*, 2026)
 - **Jeet Parikh** — Yale College; clinical trial eligibility criteria NLP framework (*JMIR Research Protocols*, 2026)
-- **Sameer Pandya** — Data Scientist; clinical trial patient matching and real-world EHR data informatics
+- **Sameer Pandya, MS** — Data Scientist; clinical trial patient matching and real-world EHR data informatics
