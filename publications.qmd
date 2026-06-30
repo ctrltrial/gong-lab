@@ -17,16 +17,6 @@ Integrates large language models with Bayesian hierarchical modeling to support 
 
 ---
 
-**Evaluating Underrepresentation in Cancer Clinical Trial Enrollment across Three NCI-Designated Cancer Centers: A Retrospective Demographic Study**
-
-Gong G, Liu J, Syed M, Worley K, Pandya S, Taborda C, Mendez L, Battaglia T, Osterman TJ, Reid SA, Mazo Canola M, Creighton SL, Nahm Zozus M, Park BH, Padalecki SS, Kunz PL, Lustberg M.
-
-*JCO Oncology Advances*. In press.
-
-Retrospective analysis of demographic underrepresentation in cancer clinical trial enrollment across three NCI-designated cancer centers.
-
----
-
 **The Fundamentals of Digital Oncology: Key Technologies in Digital Oncology**
 
 Liu J, Lustberg M, Gong G.
@@ -38,6 +28,17 @@ Book chapter on foundational technologies in digital oncology.
 ## Peer-reviewed original research
 
 ### 2026
+
+**Evaluating Underrepresentation in Cancer Clinical Trial Enrollment across Three NCI-Designated Cancer Centers: A Retrospective Demographic Study**
+
+Gong G, Liu J, Syed M, Worley K, Pandya S, Taborda C, Mendez L, Battaglia T, Osterman TJ, Reid SA, Mazo Canola M, Creighton SL, Nahm Zozus M, Park BH, Padalecki SS, Kunz PL, Lustberg M.
+
+*JCO Oncology Advances* 2026; 3:e2500159.  
+[DOI: 10.1200/OA-25-00159](https://doi.org/10.1200/OA-25-00159)
+
+Retrospective analysis of demographic underrepresentation in cancer clinical trial enrollment across three NCI-designated cancer centers.
+
+---
 
 **CTPM: A Real-Time, Common Data Model and Artificial Intelligence–Driven System for Automated Patient Pre-Screening in Cancer Clinical Trials**
 
