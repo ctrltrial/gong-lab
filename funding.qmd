@@ -28,5 +28,5 @@ Our work has been supported through awards and collaborations including:
 - **Blavatnik Fund for Innovation at Yale** — Accelerator Award for AI-powered clinical trial matching
 - **Connecticut Innovations** — BioPipeline and CTNext Entrepreneur Innovation Awards
 - **Eli Lilly** — Quality improvement initiatives in breast oncology
-- **ASCO & Pfizer** — Clinical trial participation and biomarker testing research
+- **ASCO & Pfizer** — Optimizing Biomarker and Genomic Testing in Prostate Cancer: Identifying Gaps and Implementing Quality Improvement Solutions
 - **Susan G. Komen Foundation** — AI-assisted navigation for hereditary breast cancer testing
