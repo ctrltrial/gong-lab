@@ -121,12 +121,12 @@ blockquote {
 /* Funding page */
 .funding-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 2.5rem 2rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem 1.5rem;
   align-items: center;
   justify-items: center;
   margin: 2rem 0 3rem;
-  padding: 1rem 0;
+  padding: 0;
 }
 
 .funding-grid a {
@@ -134,18 +134,20 @@ blockquote {
   align-items: center;
   justify-content: center;
   width: 100%;
-  min-height: 80px;
-  padding: 0.75rem;
+  min-height: 120px;
+  padding: 1rem;
+  border-radius: 0.5rem;
   transition: opacity 0.2s ease;
 }
 
 .funding-grid a:hover {
-  opacity: 0.75;
+  opacity: 0.8;
 }
 
 .funding-grid img {
-  max-height: 90px;
-  max-width: 260px;
+  display: block;
+  max-height: 100px;
+  max-width: 100%;
   width: auto;
   height: auto;
   object-fit: contain;
@@ -153,12 +155,16 @@ blockquote {
 
 @media (max-width: 992px) {
   .funding-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
 @media (max-width: 576px) {
   .funding-grid {
     grid-template-columns: 1fr;
+  }
+
+  .funding-grid a {
+    min-height: 110px;
   }
 }
