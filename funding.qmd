@@ -8,7 +8,7 @@ The Gong Lab is grateful for research and innovation support from the following 
 <div class="funding-grid">
   <a href="https://www.yalecancercenter.org/" aria-label="Yale Cancer Center"><img src="images/funding/yale-cancer-center.png" alt="Yale Cancer Center"></a>
   <a href="https://www.ynhhs.org/" aria-label="Yale New Haven Health"><img src="images/funding/yale-new-haven-health.png" alt="Yale New Haven Health"></a>
-  <a href="https://city.yale.edu/" aria-label="Tsai CITY at Yale"><img src="images/funding/tsai-city.png" alt="Tsai CITY at Yale"></a>
+  <a href="https://city.yale.edu/" aria-label="Tsai CITY at Yale"><img src="images/funding/tsai-city.svg" alt="Tsai CITY at Yale"></a>
   <a href="https://www.lilly.com/" aria-label="Eli Lilly and Company"><img src="images/funding/eli-lilly.png" alt="Eli Lilly and Company"></a>
   <a href="https://ventures.yale.edu/" aria-label="Blavatnik Fund for Innovation at Yale"><img src="images/funding/blavatnik-fund.png" alt="Blavatnik Fund for Innovation at Yale"></a>
   <a href="https://ctinnovations.com/" aria-label="Connecticut Innovations"><img src="images/funding/connecticut-innovations.png" alt="Connecticut Innovations"></a>
