@@ -49,6 +49,19 @@ Yale School of Medicine
 
 ::: {.grid .person-profile}
 ::: {.g-col-12 .g-col-md-3}
+![](images/people/michelle-song.png){.person-photo width=100% alt="Michelle Song, MS"}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+### Michelle Song, MS
+
+**Research Assistant**  
+Yale School of Medicine
+:::
+:::
+
+::: {.grid .person-profile}
+::: {.g-col-12 .g-col-md-3}
 ![](images/people/robert-ke.png){.person-photo width=100% alt="Robert Ke"}
 :::
 
