@@ -60,6 +60,19 @@ Yale School of Public Health
 :::
 :::
 
+::: {.grid .person-profile}
+::: {.g-col-12 .g-col-md-3}
+![](images/people/yujie-zhang.png){.person-photo width=100% alt="Yujie Zhang"}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+### Yujie Zhang
+
+**Graduate Student and Research Assistant**  
+Yale School of Public Health
+:::
+:::
+
 ---
 
 ## Alumni
