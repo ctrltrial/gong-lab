@@ -64,6 +64,21 @@ Yale School of Medicine
 
 ::: {.grid .person-profile}
 ::: {.g-col-12 .g-col-md-3}
+![](images/people/kate-qi.png){.person-photo width=100% alt="Kate Qi, MS"}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+### Kate Qi, MS
+
+**Research Assistant**  
+Yale School of Medicine
+
+**Contact:** [qiplankton@outlook.com](mailto:qiplankton@outlook.com)
+:::
+:::
+
+::: {.grid .person-profile}
+::: {.g-col-12 .g-col-md-3}
 ![](images/people/robert-ke.png){.person-photo width=100% alt="Robert Ke"}
 :::
 
