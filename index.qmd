@@ -82,9 +82,9 @@ format:
         <h2>From methods to impact</h2>
         <p>Led by <a href="people.html">Guannan Gong, PhD</a>, the lab integrates electronic health records, clinical NLP, large language models, and trial evidence synthesis. Our research informs <a href="https://www.ctrltrial.com/">CtrlTrial</a>—translating lab work into tools for real-time clinical trial recruitment at Yale and beyond.</p>
         <ul class="home-highlights">
+          <li><strong>2026</strong> — Yale Faculty Innovation Award for CTRLTRIAL AI trial matching</li>
+          <li><strong>2026</strong> — LEAD-ONC published in <em>JCO Clinical Cancer Informatics</em></li>
           <li><strong>2026</strong> — CTPM validated across 29 oncology trials (<em>JCO Clinical Cancer Informatics</em>)</li>
-          <li><strong>2026</strong> — Underrepresentation study across three NCI-designated cancer centers (<em>JCO Oncology Advances</em>)</li>
-          <li><strong>2025</strong> — Blavatnik Accelerator Award for AI-powered trial matching</li>
         </ul>
       </div>
       <div class="home-split-visual">

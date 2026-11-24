@@ -28,60 +28,39 @@
     "text": "Alumni\nWe are grateful to former students and trainees who contributed to Gong Lab research during their time at Yale.\n\nJustin Xie — Yale College; clinical trial eligibility criteria NLP framework (JMIR Research Protocols, 2026)\nJeet Parikh — Yale College; clinical trial eligibility criteria NLP framework (JMIR Research Protocols, 2026)\nSameer Pandya, MS — Data Scientist; clinical trial patient matching and real-world EHR data informatics"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Gong Lab",
-    "section": "",
-    "text": "Yale School of Medicine · Yale Cancer Center\n      AI for oncology trials, real-world evidence, and precision cancer care\n      We build clinical informatics and machine learning systems that match patients to trials, structure eligibility at scale, and turn EHR data into actionable research.\n      \n        Explore research\n        View projects\n      \n    \n  \n\n  \n    \n      30+\n      Oncology trials validated with CTPM\n    \n    \n      53K+\n      Trials analyzed for eligibility intelligence\n    \n    \n      OMOP · ML · NLP · LLM\n      Hybrid AI pipelines on real-world EHR data\n    \n  \n\n  \n    \n      Research focus\n      Four interconnected areas where we develop methods and deploy them in cancer care.\n    \n    \n      \n        \n        \n          Clinical trial patient matching\n          Real-time OMOP-based prescreening across structured and unstructured EHR data.\n        \n      \n      \n        \n        \n          Eligibility criteria intelligence\n          NLP and LLM pipelines to structure, cluster, and visualize trial criteria at scale.\n        \n      \n      \n        \n        \n          Real-world data & EHR science\n          Computational phenotyping, data integrity, and predictive modeling for research.\n        \n      \n      \n        \n        \n          Equitable trial access\n          Methods designed to reach underserved and underrepresented patient populations.\n        \n      \n    \n  \n\n  \n    \n      \n        From methods to impact\n        Led by Guannan Gong, PhD, the lab integrates electronic health records, clinical NLP, large language models, and trial evidence synthesis. Our research informs CtrlTrial—translating lab work into tools for real-time clinical trial recruitment at Yale and beyond.\n        \n          2026 — CTPM validated across 29 oncology trials (JCO Clinical Cancer Informatics)\n          2026 — Underrepresentation study across three NCI-designated cancer centers (JCO Oncology Advances)\n          2025 — Blavatnik Accelerator Award for AI-powered trial matching\n        \n      \n      \n        \n      \n    \n  \n\n  \n    Affiliations\n    Yale School of Medicine\n    Yale Cancer Center\n    Computational Biology & Biomedical Informatics"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Selected publications from the Gong Lab. A full bibliography is available on Dr. Gong’s Yale profile."
+    "text": "Selected publications from the Gong Lab. A full bibliography is available on Dr. Gong’s Google Scholar profile and Yale profile."
   },
   {
     "objectID": "publications.html#in-press-forthcoming",
     "href": "publications.html#in-press-forthcoming",
     "title": "Publications",
     "section": "In press & forthcoming",
-    "text": "In press & forthcoming\nLearning from Literature: Integrating LLMs and Bayesian Hierarchical Modeling for Oncology Trial Design\nGong G, Roychoudhury S, Meisner A, Pusztai L, Goldberg SB, Wei W.\nJCO Clinical Cancer Informatics. In press.\narXiv\nIntegrates large language models with Bayesian hierarchical modeling to support evidence-driven oncology clinical trial design from published literature.\n\nThe Fundamentals of Digital Oncology: Key Technologies in Digital Oncology\nLiu J, Lustberg M, Gong G.\nIn: Digital Oncology (series editors: Matti Aapro, Pietro Presti). Elsevier/Academic Press, 2026. Under review.\nBook chapter on foundational technologies in digital oncology."
+    "text": "In press & forthcoming\nThe Fundamentals of Digital Oncology: Key Technologies in Digital Oncology\nLiu J, Lustberg M, Gong G.\nIn: Digital Oncology (series editors: Matti Aapro, Pietro Presti). Elsevier/Academic Press, 2026. Under review.\nBook chapter on foundational technologies in digital oncology."
   },
   {
     "objectID": "publications.html#peer-reviewed-original-research",
     "href": "publications.html#peer-reviewed-original-research",
     "title": "Publications",
     "section": "Peer-reviewed original research",
-    "text": "Peer-reviewed original research\n\n2026\nEvaluating Underrepresentation in Cancer Clinical Trial Enrollment across Three NCI-Designated Cancer Centers: A Retrospective Demographic Study\nGong G, Liu J, Syed M, Worley K, Pandya S, Taborda C, Mendez L, Battaglia T, Osterman TJ, Reid SA, Mazo Canola M, Creighton SL, Nahm Zozus M, Park BH, Padalecki SS, Kunz PL, Lustberg M.\nJCO Oncology Advances 2026; 3:e2500159.\nDOI: 10.1200/OA-25-00159\nRetrospective analysis of demographic underrepresentation in cancer clinical trial enrollment across three NCI-designated cancer centers.\n\nCTPM: A Real-Time, Common Data Model and Artificial Intelligence–Driven System for Automated Patient Pre-Screening in Cancer Clinical Trials\nGong G, Liu J, Pandya S, Taborda C, Wiesendanger N, Price N, Byran W, Coppi A, Young P, Wiess C, Barganier C, Brodeur R, Fischbach N, LoRusso P, Pusztai L, Kim SY, Rozenblit M, Cecchini M, Mongiu A, Mendez L, Kaftan E, Torre C Jr, Krumholz H, Krop I, Schulz W, Lustberg M, Kunz PL.\nJCO Clinical Cancer Informatics 2026; 10:e2500262.\nPubMed · DOI: 10.1200/CCI-25-00262\nDeveloped and validated a hybrid rules- and NLP-based CTPM pipeline using OMOP-standardized EHR data across 29 oncology trials.\n\nAssessment of the Integrity of Real-Time Electronic Health Record Data Used in Clinical Research\nLiu J, Pandya S, Coppi A, Young HP, Krumholz H, Schulz W, Gong G.\nPLOS ONE 2026; 21:e0340287.\nPubMed · DOI: 10.1371/journal.pone.0340287\nBenchmarked the accuracy and reliability of real-time EHR data for secondary use in clinical research.\n\nA Natural Language Processing Framework for Structuring and Visualizing Clinical Trial Eligibility Criteria at Scale: Protocol for a Quantitative Study\nXie J, Parikh J, Liu J, Pandya S, Gong G.\nJMIR Research Protocols 2026; 15:e86425.\nFull text · DOI: 10.2196/86425\nProtocol for an LLM-enabled pipeline to cluster, summarize, and visualize eligibility criteria from ClinicalTrials.gov oncology trials.\n\n\n2021\nClinical Characteristics and Outcomes for 7,995 Patients with SARS-CoV-2 Infection\nMcPadden J, Warner F, Young HP, Hurley NC, Pulk RA, Singh A, Durant TJS, Gong G, Desai N, Haimovich A, Taylor RA, Gunel M, Dela Cruz CS, Farhadian SF, Siner J, Villanueva M, Churchwell K, Hsiao A, Torre CJ Jr, Velazquez EJ, Herbst RS, Iwasaki A, Ko AI, Mortazavi BJ, Krumholz HM, Schulz WL.\nPLoS ONE 2021; 16:e0243291.\nPubMed · DOI: 10.1371/journal.pone.0243291\nLarge cohort study of COVID-19 patients at Yale New Haven Health.\n\nNext Generation Phenotyping in Clinical Trial Based on Real-World Data\nGong G.\nPhD dissertation, Yale Graduate School of Arts and Sciences, 2021.\nYale EliScholar\nDissertation on computational phenotyping for clinical trials using real-world data. Advisor: Harlan Krumholz, MD, SM.\n\n\n2020\nPatient Factors Associated with SARS-CoV-2 in an Admitted Emergency Department Population\nHaimovich A, Warner F, Young HP, Ravindra NG, Sehanobish A, Gong G, Wilson FP, van Dijk D, Schulz W, Taylor RA.\nJ Am Coll Emerg Physicians Open 2020; 1:569–577.\nPubMed · DOI: 10.1002/emp2.12145\n\nBridging the Collaboration Gap: Real-Time Identification of Clinical Specimens for Biomedical Research\nDurant TJS, Gong G, Price N, Schulz WL.\nJ Pathol Inform 2020; 11:14.\nPubMed · DOI: 10.4103/jpi.jpi_15_20"
+    "text": "Peer-reviewed original research\n\n2026\nLEAD-ONC: A Platform for Reconstructing Survival Data From Trial Reports for Targeted Evidence Synthesis and Clinical Trial Design\nGong G, Roychoudhury S, Meisner A, Pusztai L, Goldberg SB, Wei W.\nJCO Clinical Cancer Informatics 2026; 10:e2600099.\nDOI: 10.1200/CCI-26-00099 · Platform\nAI-assisted platform that extracts trial metadata, reconstructs survival data from Kaplan–Meier curves, and supports Bayesian evidence synthesis for oncology trial design.\n\nEvaluating Underrepresentation in Cancer Clinical Trial Enrollment across Three NCI-Designated Cancer Centers: A Retrospective Demographic Study\nGong G, Liu J, Syed M, Worley K, Pandya S, Taborda C, Mendez L, Battaglia T, Osterman TJ, Reid SA, Mazo Canola M, Creighton SL, Nahm Zozus M, Park BH, Padalecki SS, Kunz PL, Lustberg M.\nJCO Oncology Advances 2026; 3:e2500159.\nDOI: 10.1200/OA-25-00159\nRetrospective analysis of demographic underrepresentation in cancer clinical trial enrollment across three NCI-designated cancer centers.\n\nCTPM: A Real-Time, Common Data Model and Artificial Intelligence–Driven System for Automated Patient Pre-Screening in Cancer Clinical Trials\nGong G, Liu J, Pandya S, Taborda C, Wiesendanger N, Price N, Byran W, Coppi A, Young P, Wiess C, Barganier C, Brodeur R, Fischbach N, LoRusso P, Pusztai L, Kim SY, Rozenblit M, Cecchini M, Mongiu A, Mendez L, Kaftan E, Torre C Jr, Krumholz H, Krop I, Schulz W, Lustberg M, Kunz PL.\nJCO Clinical Cancer Informatics 2026; 10:e2500262.\nPubMed · DOI: 10.1200/CCI-25-00262\nDeveloped and validated a hybrid rules- and NLP-based CTPM pipeline using OMOP-standardized EHR data across 29 oncology trials.\n\nAssessment of the Integrity of Real-Time Electronic Health Record Data Used in Clinical Research\nLiu J, Pandya S, Coppi A, Young HP, Krumholz H, Schulz W, Gong G.\nPLOS ONE 2026; 21:e0340287.\nPubMed · DOI: 10.1371/journal.pone.0340287\nBenchmarked the accuracy and reliability of real-time EHR data for secondary use in clinical research.\n\nA Natural Language Processing Framework for Structuring and Visualizing Clinical Trial Eligibility Criteria at Scale: Protocol for a Quantitative Study\nXie J, Parikh J, Liu J, Pandya S, Gong G.\nJMIR Research Protocols 2026; 15:e86425.\nFull text · DOI: 10.2196/86425\nProtocol for an LLM-enabled pipeline to cluster, summarize, and visualize eligibility criteria from ClinicalTrials.gov oncology trials.\n\nMET Expression by Immunohistochemistry as a Biomarker in Pancreatic Neuroendocrine Tumours\nCarrasco-Tenezaca F, Marciano T, Brown LM, Carmichael G, Gong G, et al.\nHistopathology 2026.\nStudy of MET immunohistochemistry as a biomarker in pancreatic neuroendocrine tumors.\n\n\n2021\nClinical Characteristics and Outcomes for 7,995 Patients with SARS-CoV-2 Infection\nMcPadden J, Warner F, Young HP, Hurley NC, Pulk RA, Singh A, Durant TJS, Gong G, Desai N, Haimovich A, Taylor RA, Gunel M, Dela Cruz CS, Farhadian SF, Siner J, Villanueva M, Churchwell K, Hsiao A, Torre CJ Jr, Velazquez EJ, Herbst RS, Iwasaki A, Ko AI, Mortazavi BJ, Krumholz HM, Schulz WL.\nPLoS ONE 2021; 16:e0243291.\nPubMed · DOI: 10.1371/journal.pone.0243291\nLarge cohort study of COVID-19 patients at Yale New Haven Health.\n\nNext Generation Phenotyping in Clinical Trial Based on Real-World Data\nGong G.\nPhD dissertation, Yale Graduate School of Arts and Sciences, 2021.\nYale EliScholar\nDissertation on computational phenotyping for clinical trials using real-world data. Advisor: Harlan Krumholz, MD, SM.\n\n\n2020\nPatient Factors Associated with SARS-CoV-2 in an Admitted Emergency Department Population\nHaimovich A, Warner F, Young HP, Ravindra NG, Sehanobish A, Gong G, Wilson FP, van Dijk D, Schulz W, Taylor RA.\nJ Am Coll Emerg Physicians Open 2020; 1:569–577.\nPubMed · DOI: 10.1002/emp2.12145\n\nBridging the Collaboration Gap: Real-Time Identification of Clinical Specimens for Biomedical Research\nDurant TJS, Gong G, Price N, Schulz WL.\nJ Pathol Inform 2020; 11:14.\nPubMed · DOI: 10.4103/jpi.jpi_15_20"
   },
   {
     "objectID": "publications.html#preprints-under-review",
     "href": "publications.html#preprints-under-review",
     "title": "Publications",
     "section": "Preprints & under review",
-    "text": "Preprints & under review\nLEAD-ONC: An AI-Assisted Framework for Automated Extraction and Harmonization of Clinical Trial Data from Oncology Literature\nSong M, Wei W, Gong G.\nUnder review. arXiv:2602.08172\nFramework for automated extraction and harmonization of oncology clinical trial data from published literature.\n\nTrialChain: A Blockchain-Based Platform to Validate Data Integrity in Large Biomedical Research Studies\nDai H, Young HP, Durant TJS, Gong G, Kang M, Krumholz HM, Schulz WL, Jiang L.\narXiv 2018. arXiv:1807.03662"
+    "text": "Preprints & under review\nTRACE: Target-Trial Relevance Assessment and Compatibility-Guided Evidence Synthesis\nWei W, Ke L, Tang T, Challa P, Gupta TR, Gong G, Roychoudhury S, Sundar R.\narXiv 2026. arXiv:2611.16870\nFramework for selecting compatible external trials and synthesizing control-arm survival benchmarks for oncology trial design.\n\nStochIKM: Automated High-Fidelity Reconstruction of Individual Patient Data from Published Kaplan–Meier Curves\nKe L, Zelterman D, Wei W, Gong G.\narXiv 2026. arXiv:2610.29122\nStochastic algorithm for reconstructing admissible individual patient datasets from published Kaplan–Meier figures with explicit fidelity constraints.\n\nCARB: A Covariate-Assessed Robust Borrowing Strategy with Literature-Informed Prior Weights for External Data\nLiang J, Gong G, Roychoudhury S, Wei W.\narXiv 2026. arXiv:2608.28810\nDesign-stage framework for assigning source-specific prior weights when borrowing external control data based on baseline covariate compatibility.\n\nLearning from Literature: Integrating LLMs and Bayesian Hierarchical Modeling for Oncology Trial Design\nGong G, Roychoudhury S, Meisner A, Pusztai L, Goldberg SB, Wei W.\narXiv 2026. arXiv:2602.08172\nPreprint describing the LEAD-ONC methodological framework for evidence-driven oncology trial design.\n\nTrialChain: A Blockchain-Based Platform to Validate Data Integrity in Large Biomedical Research Studies\nDai H, Young HP, Durant TJS, Gong G, Kang M, Krumholz HM, Schulz WL, Jiang L.\narXiv 2018. arXiv:1807.03662"
   },
   {
     "objectID": "publications.html#selected-conference-abstracts-presentations",
     "href": "publications.html#selected-conference-abstracts-presentations",
     "title": "Publications",
     "section": "Selected conference abstracts & presentations",
-    "text": "Selected conference abstracts & presentations\nImproving Identification and Enrollment in HR+/HER2− Breast Cancer Trials Using AI Clinical Trial Patient Matching Tool\nGong G, Liu J, Pandya S, Xie J, Parikh J, Fischbach N, Kunz P, Pusztai L, Lustberg M.\nSan Antonio Breast Cancer Symposium, San Antonio, TX, 2025.\n\nEvaluating Underrepresentation in Breast Cancer Clinical Trial Enrollment at Yale Cancer Center: A Retrospective Demographic Study\nGong G, Liu J, Taylor M, Pandya S, Taborda C, Xie J, Parikh J, Wei W, Stefanou M, Kunz P, Fischbach N, Battaglia T, Mendez L, Gaddy J, Krop I, LoRusso P, Lustberg M, Silber A.\nSan Antonio Breast Cancer Symposium, San Antonio, TX, 2025.\n\nEarly Outcomes from the IMPACCT Project (Improving Participation in Cancer Clinical Trials)\nTaylor M, Stefanou M, Gong G, Lustberg M, Silber A.\nSan Antonio Breast Cancer Symposium, San Antonio, TX, 2025.\n\nProspective Evaluation of an AI-Powered Clinical Trial Patient Matching (CTPM) System in Myelodysplastic Syndromes and Multiple Myeloma\nTaborda C, Gong G, Douglas G, Liu J, Incoom A, Stahl M, Podoltsev N, Bewersdorf JP, Getz T, Stempel J, Kewan T, Lanino L, Bidikian A, Parker T, Bar N, Browning S, Halene S, Neparidze N, Zeidan A, Mendez L.\n67th ASH Annual Meeting. Blood 2025; 146(Suppl 1):1086.\n\nReal-World Persistence with CDK4/6 Inhibitors in Early and Metastatic HR-Positive, HER2-Negative Breast Cancer\nGong G, Brown BR, Pandya S, Caetano M, Legare R, Taghzout S, Ramos M, Liu J, Hood A, Zummo M, Lustberg M.\nNCCN Annual Conference, 2026.\n\nAutomated Eligibility Screening for Adjuvant CDK4/6 Inhibitors in High-Risk HR+/HER2− Early Breast Cancer Using Natural Language Processing\nLiu J, Pandya S, Brown BR, Caetano ML, Taghzout S, Ramos M, Hood A, Zummo M, Wei W, Legare R, Lustberg M, Gong G.\nASCO Annual Meeting, 2026.\n\nLearning from the Literature: An AI-Assisted Bayesian Framework for Evidence-Driven Oncology Trial Design\nGong G, Roychoudhury S, Meisner A, Pusztai L, Goldberg SB, Wei W.\nASCO Annual Meeting, 2026."
-  },
-  {
-    "objectID": "funding.html",
-    "href": "funding.html",
-    "title": "Funding",
-    "section": "",
-    "text": "The Gong Lab is grateful for research and innovation support from the following organizations:"
-  },
-  {
-    "objectID": "funding.html#current-recent-support",
-    "href": "funding.html#current-recent-support",
-    "title": "Funding",
-    "section": "Current & recent support",
-    "text": "Current & recent support\nOur work has been supported through awards and collaborations including:\n\nYale Cancer Center — Translational-Targeted Area of Research Excellence (T-TARE) and Catchment Area Research Awards\nYale New Haven Health — Innovation Award for Clinical Trial Patient Matching\nTsai CITY at Yale — Rothberg Catalyzer Prize, Summer Fellowship, and Student Catalyst Award\nBlavatnik Fund for Innovation at Yale — Accelerator Award for AI-powered clinical trial matching\nConnecticut Innovations — BioPipeline and CTNext Entrepreneur Innovation Awards\nEli Lilly — Quality improvement initiatives in breast oncology\nASCO & Pfizer — Optimizing Biomarker and Genomic Testing in Prostate Cancer: Identifying Gaps and Implementing Quality Improvement Solutions\nSusan G. Komen Foundation — AI-assisted navigation for hereditary breast cancer testing"
+    "text": "Selected conference abstracts & presentations\nPatient- and Clinician-Informed Development of an Epic-Integrated ePRO Tool to Support CDK4/6 Inhibitor Persistence\nCaetano ML, Taghzout S, Gong G, Liu J, Lustberg MB.\nJCO Oncology Practice 2026; 22(10_suppl):418.\n\nAutomated Eligibility Screening for Adjuvant CDK4/6 Inhibitors in High-Risk HR+/HER2− Early Breast Cancer Using Natural Language Processing\nLiu J, Pandya S, Brown BR, Caetano ML, Taghzout S, Ramos M, Hood A, Zummo M, Wei W, Legare R, Lustberg M, Gong G.\nASCO Annual Meeting, 2026. Journal of Clinical Oncology 2026; 44(16_suppl):e23303.\n\nLearning from the Literature: An AI-Assisted Bayesian Framework for Evidence-Driven Oncology Trial Design\nGong G, Roychoudhury S, Meisner A, Pusztai L, Goldberg SB, Wei W.\nASCO Annual Meeting, 2026. Journal of Clinical Oncology 2026; 44(16_suppl):e23010.\n\nAssociation Between Area Deprivation Index (ADI) and Treatment Persistence with CDK4/6 Inhibitors in HR+/HER2− Breast Cancer\nCaetano ML, Liu J, Brown BR, Gong G, Pandya S, Taghzout S, Ramos M, et al.\nAACR Annual Meeting, 2026. Cancer Research 2026; 86(7_Supplement):6648.\n\nReal-World Persistence with CDK4/6 Inhibitors in Early and Metastatic HR-Positive, HER2-Negative Breast Cancer\nGong G, Brown BR, Pandya S, Caetano M, Legare R, Taghzout S, Ramos M, Liu J, Hood A, Zummo M, Lustberg M.\nNCCN Annual Conference, 2026. JNCCN 2026; 24(3.5):HSR26-243.\n\nImproving Identification and Enrollment in HR+/HER2− Breast Cancer Trials Using AI Clinical Trial Patient Matching Tool\nGong G, Liu J, Pandya S, Xie J, Parikh J, Fischbach N, Kunz P, Pusztai L, Lustberg M.\nSan Antonio Breast Cancer Symposium, San Antonio, TX, 2025.\n\nEvaluating Underrepresentation in Breast Cancer Clinical Trial Enrollment at Yale Cancer Center: A Retrospective Demographic Study\nGong G, Liu J, Taylor M, Pandya S, Taborda C, Xie J, Parikh J, Wei W, Stefanou M, Kunz P, Fischbach N, Battaglia T, Mendez L, Gaddy J, Krop I, LoRusso P, Lustberg M, Silber A.\nSan Antonio Breast Cancer Symposium, San Antonio, TX, 2025.\n\nEarly Outcomes from the IMPACCT Project (Improving Participation in Cancer Clinical Trials)\nTaylor M, Stefanou M, Gong G, Lustberg M, Silber A.\nSan Antonio Breast Cancer Symposium, San Antonio, TX, 2025.\n\nProspective Evaluation of an AI-Powered Clinical Trial Patient Matching (CTPM) System in Myelodysplastic Syndromes and Multiple Myeloma\nTaborda C, Gong G, Douglas G, Liu J, Incoom A, Stahl M, Podoltsev N, Bewersdorf JP, Getz T, Stempel J, Kewan T, Lanino L, Bidikian A, Parker T, Bar N, Browning S, Halene S, Neparidze N, Zeidan A, Mendez L.\n67th ASH Annual Meeting. Blood 2025; 146(Suppl 1):1086."
   },
   {
     "objectID": "projects.html",
@@ -154,34 +133,6 @@
     "text": "Research informatics infrastructure\n\n\n\n\n\nWe contribute to Yale-wide informatics initiatives including:\n\nPatient recruitment workflows connecting primary care providers through the EMR and patient portal\nReal-time specimen identification for collaborative biobanking\nComputational phenotyping pipelines for precision medicine\nBlockchain-based data integrity validation (TrialChain)\n\nThese projects build on Dr. Gong’s experience at Epic Systems, InterSystems, the Yale/YNHH Center for Outcomes Research and Evaluation (CORE), and over a decade of health IT development prior to joining Yale School of Medicine."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Associate Research Scientist\nDepartment of Medical Oncology and Hematology\nYale School of Medicine\nYale Cancer Center\nEmail: guannan.gong@yale.edu\nPhone: (203) 200-2328\nOffice address\nYale Cancer Center\n333 Cedar Street\nNew Haven, CT 06510"
-  },
-  {
-    "objectID": "contact.html#guannan-gong-phd",
-    "href": "contact.html#guannan-gong-phd",
-    "title": "Contact",
-    "section": "",
-    "text": "Associate Research Scientist\nDepartment of Medical Oncology and Hematology\nYale School of Medicine\nYale Cancer Center\nEmail: guannan.gong@yale.edu\nPhone: (203) 200-2328\nOffice address\nYale Cancer Center\n333 Cedar Street\nNew Haven, CT 06510"
-  },
-  {
-    "objectID": "contact.html#links",
-    "href": "contact.html#links",
-    "title": "Contact",
-    "section": "Links",
-    "text": "Links\n\nYale School of Medicine profile\nYale CBB profile\nORCID\nCtrlTrial"
-  },
-  {
-    "objectID": "contact.html#collaboration-inquiries",
-    "href": "contact.html#collaboration-inquiries",
-    "title": "Contact",
-    "section": "Collaboration inquiries",
-    "text": "Collaboration inquiries\nFor research collaborations, data partnerships, or clinical trial informatics projects, please email Dr. Gong directly. For trainee and student opportunities, see Join the Lab."
-  },
-  {
     "objectID": "join.html",
     "href": "join.html",
     "title": "Join the Lab",
@@ -215,48 +166,6 @@
     "title": "Join the Lab",
     "section": "Related programs at Yale",
     "text": "Related programs at Yale\n\nYale Computational Biology and Biomedical Informatics (CBB)\nYale Cancer Center\nYale MD-PhD and MHS in Clinical Informatics & Data Science\nYale Tsai CITY — entrepreneurship & innovation"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "March 2026 — AI in Cancer Workshop: Advancing Precision Medicine through Interdisciplinary Innovation\nYale School of Medicine hosted a workshop on AI applications in cancer care and precision medicine.\nYale profile news →\nJanuary 2026 — Clinical Trial Patient Matching published in JCO Clinical Cancer Informatics\nOur CTPM system for semiautomated cancer trial prescreening was published, reporting validation across 29 oncology trials.\nRead the paper →"
-  },
-  {
-    "objectID": "news.html#section",
-    "href": "news.html#section",
-    "title": "News",
-    "section": "",
-    "text": "March 2026 — AI in Cancer Workshop: Advancing Precision Medicine through Interdisciplinary Innovation\nYale School of Medicine hosted a workshop on AI applications in cancer care and precision medicine.\nYale profile news →\nJanuary 2026 — Clinical Trial Patient Matching published in JCO Clinical Cancer Informatics\nOur CTPM system for semiautomated cancer trial prescreening was published, reporting validation across 29 oncology trials.\nRead the paper →"
-  },
-  {
-    "objectID": "news.html#section-1",
-    "href": "news.html#section-1",
-    "title": "News",
-    "section": "2025",
-    "text": "2025\nDecember 2025 — Research presented at San Antonio Breast Cancer Symposium\nYale Cancer Center research advances, including informatics work relevant to trial matching, were presented at SABCS.\nYale Cancer Center →\nJuly 2025 — Blavatnik Accelerator Award\nDr. Gong’s translational biotech project was selected for the 2025 Blavatnik Accelerator Awards through Yale Ventures.\nYale Ventures announcement →\nMay 2025 — Eligibility criteria NLP framework protocol published\nOur JMIR Research Protocols paper describing the LLM-based eligibility criteria visualizer was published.\nRead the protocol →"
-  },
-  {
-    "objectID": "news.html#section-2",
-    "href": "news.html#section-2",
-    "title": "News",
-    "section": "2024",
-    "text": "2024\nNovember 2024 — Yale Cancer Center Catchment Area Research Award\nAwarded for research advancing clinical trial access in the Yale Cancer Center catchment area.\nJune 2024 — Yale New Haven Health Innovation Award\nCtrlTrial’s Clinical Trial Patient Matching system received the YNHH Innovation Award.\nYNHH announcement →"
-  },
-  {
-    "objectID": "news.html#section-3",
-    "href": "news.html#section-3",
-    "title": "News",
-    "section": "2022",
-    "text": "2022\nOctober 2022 — Yale Cancer Center T-TARE Award\nSupported development and validation of the OMOP-based clinical trial patient matching pipeline."
-  },
-  {
-    "objectID": "news.html#section-4",
-    "href": "news.html#section-4",
-    "title": "News",
-    "section": "2020",
-    "text": "2020\nMay 2020 — Startup Yale Rothberg Catalyzer Award\nRecognized early work on AI-driven clinical trial recruitment through Yale Tsai CITY."
   },
   {
     "objectID": "research.html",
@@ -299,5 +208,96 @@
     "title": "Research",
     "section": "Methods & technologies",
     "text": "Methods & technologies\n\n\n\n\n\n\n\nArea\nMethods\n\n\n\n\nData standards\nOMOP CDM, FHIR integration\n\n\nNLP / AI\nClinical NLP, large language models, hybrid rules + ML pipelines\n\n\nData sources\nEHR (Epic), pathology, laboratory, CTMS, ClinicalTrials.gov\n\n\nDomains\nOncology clinical trials, real-world evidence, outcomes research"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Associate Research Scientist\nDepartment of Medical Oncology and Hematology\nYale School of Medicine\nYale Cancer Center\nEmail: guannan.gong@yale.edu\nPhone: (203) 200-2328\nOffice address\nYale Cancer Center\n333 Cedar Street\nNew Haven, CT 06510"
+  },
+  {
+    "objectID": "contact.html#guannan-gong-phd",
+    "href": "contact.html#guannan-gong-phd",
+    "title": "Contact",
+    "section": "",
+    "text": "Associate Research Scientist\nDepartment of Medical Oncology and Hematology\nYale School of Medicine\nYale Cancer Center\nEmail: guannan.gong@yale.edu\nPhone: (203) 200-2328\nOffice address\nYale Cancer Center\n333 Cedar Street\nNew Haven, CT 06510"
+  },
+  {
+    "objectID": "contact.html#links",
+    "href": "contact.html#links",
+    "title": "Contact",
+    "section": "Links",
+    "text": "Links\n\nYale School of Medicine profile\nYale CBB profile\nORCID\nCtrlTrial"
+  },
+  {
+    "objectID": "contact.html#collaboration-inquiries",
+    "href": "contact.html#collaboration-inquiries",
+    "title": "Contact",
+    "section": "Collaboration inquiries",
+    "text": "Collaboration inquiries\nFor research collaborations, data partnerships, or clinical trial informatics projects, please email Dr. Gong directly. For trainee and student opportunities, see Join the Lab."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "November 2026 — Yale Faculty Innovation Award\nDr. Guannan Gong was recognized with a 2026 Yale Faculty Innovation Award for CTRLTRIAL, an AI-driven platform that matches patients to clinical trials through eligibility screening. The award honors Yale faculty whose inventions were licensed to startups in FY2026. Coverage also appeared from Yale School of Medicine, Yale Cancer Center, Smilow Cancer Hospital, and social channels.\nYale Ventures announcement → · Faculty Innovation Awards → · YSM News & Recognition → · Yale Cancer Center on X →\nSeptember 2026 — LEAD-ONC published in JCO Clinical Cancer Informatics\nOur LEAD-ONC platform for reconstructing survival data from oncology trial reports and supporting evidence-driven trial design was published.\nRead the paper →\nMarch 2026 — AI in Cancer Workshop: Advancing Precision Medicine through Interdisciplinary Innovation\nYale School of Medicine hosted a workshop on AI applications in cancer care and precision medicine.\nYale profile news →\nJanuary 2026 — Clinical Trial Patient Matching published in JCO Clinical Cancer Informatics\nOur CTPM system for semiautomated cancer trial prescreening was published, reporting validation across 29 oncology trials.\nRead the paper →"
+  },
+  {
+    "objectID": "news.html#section",
+    "href": "news.html#section",
+    "title": "News",
+    "section": "",
+    "text": "November 2026 — Yale Faculty Innovation Award\nDr. Guannan Gong was recognized with a 2026 Yale Faculty Innovation Award for CTRLTRIAL, an AI-driven platform that matches patients to clinical trials through eligibility screening. The award honors Yale faculty whose inventions were licensed to startups in FY2026. Coverage also appeared from Yale School of Medicine, Yale Cancer Center, Smilow Cancer Hospital, and social channels.\nYale Ventures announcement → · Faculty Innovation Awards → · YSM News & Recognition → · Yale Cancer Center on X →\nSeptember 2026 — LEAD-ONC published in JCO Clinical Cancer Informatics\nOur LEAD-ONC platform for reconstructing survival data from oncology trial reports and supporting evidence-driven trial design was published.\nRead the paper →\nMarch 2026 — AI in Cancer Workshop: Advancing Precision Medicine through Interdisciplinary Innovation\nYale School of Medicine hosted a workshop on AI applications in cancer care and precision medicine.\nYale profile news →\nJanuary 2026 — Clinical Trial Patient Matching published in JCO Clinical Cancer Informatics\nOur CTPM system for semiautomated cancer trial prescreening was published, reporting validation across 29 oncology trials.\nRead the paper →"
+  },
+  {
+    "objectID": "news.html#section-1",
+    "href": "news.html#section-1",
+    "title": "News",
+    "section": "2025",
+    "text": "2025\nDecember 2025 — Research presented at San Antonio Breast Cancer Symposium\nYale Cancer Center research advances, including informatics work relevant to trial matching, were presented at SABCS.\nYale Cancer Center →\nJuly 2025 — Blavatnik Accelerator Award\nDr. Gong’s translational biotech project was selected for the 2025 Blavatnik Accelerator Awards through Yale Ventures.\nYale Ventures announcement →\nMay 2025 — Eligibility criteria NLP framework protocol published\nOur JMIR Research Protocols paper describing the LLM-based eligibility criteria visualizer was published.\nRead the protocol →"
+  },
+  {
+    "objectID": "news.html#section-2",
+    "href": "news.html#section-2",
+    "title": "News",
+    "section": "2024",
+    "text": "2024\nNovember 2024 — Yale Cancer Center Catchment Area Research Award\nAwarded for research advancing clinical trial access in the Yale Cancer Center catchment area.\nJune 2024 — Yale New Haven Health Innovation Award\nCtrlTrial’s Clinical Trial Patient Matching system received the YNHH Innovation Award.\nYNHH announcement →"
+  },
+  {
+    "objectID": "news.html#section-3",
+    "href": "news.html#section-3",
+    "title": "News",
+    "section": "2022",
+    "text": "2022\nOctober 2022 — Yale Cancer Center T-TARE Award\nSupported development and validation of the OMOP-based clinical trial patient matching pipeline."
+  },
+  {
+    "objectID": "news.html#section-4",
+    "href": "news.html#section-4",
+    "title": "News",
+    "section": "2020",
+    "text": "2020\nMay 2020 — Startup Yale Rothberg Catalyzer Award\nRecognized early work on AI-driven clinical trial recruitment through Yale Tsai CITY."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Gong Lab",
+    "section": "",
+    "text": "Yale School of Medicine · Yale Cancer Center\n      AI for oncology trials, real-world evidence, and precision cancer care\n      We build clinical informatics and machine learning systems that match patients to trials, structure eligibility at scale, and turn EHR data into actionable research.\n      \n        Explore research\n        View projects\n      \n    \n  \n\n  \n    \n      30+\n      Oncology trials validated with CTPM\n    \n    \n      53K+\n      Trials analyzed for eligibility intelligence\n    \n    \n      OMOP · ML · NLP · LLM\n      Hybrid AI pipelines on real-world EHR data\n    \n  \n\n  \n    \n      Research focus\n      Four interconnected areas where we develop methods and deploy them in cancer care.\n    \n    \n      \n        \n        \n          Clinical trial patient matching\n          Real-time OMOP-based prescreening across structured and unstructured EHR data.\n        \n      \n      \n        \n        \n          Eligibility criteria intelligence\n          NLP and LLM pipelines to structure, cluster, and visualize trial criteria at scale.\n        \n      \n      \n        \n        \n          Real-world data & EHR science\n          Computational phenotyping, data integrity, and predictive modeling for research.\n        \n      \n      \n        \n        \n          Equitable trial access\n          Methods designed to reach underserved and underrepresented patient populations.\n        \n      \n    \n  \n\n  \n    \n      \n        From methods to impact\n        Led by Guannan Gong, PhD, the lab integrates electronic health records, clinical NLP, large language models, and trial evidence synthesis. Our research informs CtrlTrial—translating lab work into tools for real-time clinical trial recruitment at Yale and beyond.\n        \n          2026 — Yale Faculty Innovation Award for CTRLTRIAL AI trial matching\n          2026 — LEAD-ONC published in JCO Clinical Cancer Informatics\n          2026 — CTPM validated across 29 oncology trials (JCO Clinical Cancer Informatics)\n        \n      \n      \n        \n      \n    \n  \n\n  \n    Affiliations\n    Yale School of Medicine\n    Yale Cancer Center\n    Computational Biology & Biomedical Informatics"
+  },
+  {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "Funding",
+    "section": "",
+    "text": "The Gong Lab is grateful for research and innovation support from the following organizations:"
+  },
+  {
+    "objectID": "funding.html#current-recent-support",
+    "href": "funding.html#current-recent-support",
+    "title": "Funding",
+    "section": "Current & recent support",
+    "text": "Current & recent support\nOur work has been supported through awards and collaborations including:\n\nYale Cancer Center — Translational-Targeted Area of Research Excellence (T-TARE) and Catchment Area Research Awards\nYale New Haven Health — Innovation Award for Clinical Trial Patient Matching\nTsai CITY at Yale — Rothberg Catalyzer Prize, Summer Fellowship, and Student Catalyst Award\nBlavatnik Fund for Innovation at Yale — Accelerator Award for AI-powered clinical trial matching\nConnecticut Innovations — BioPipeline and CTNext Entrepreneur Innovation Awards\nEli Lilly — Quality improvement initiatives in breast oncology\nASCO & Pfizer — Optimizing Biomarker and Genomic Testing in Prostate Cancer: Identifying Gaps and Implementing Quality Improvement Solutions\nSusan G. Komen Foundation — AI-assisted navigation for hereditary breast cancer testing"
   }
 ]

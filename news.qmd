@@ -4,6 +4,14 @@ title: "News"
 
 ## 2026
 
+**November 2026** — Yale Faculty Innovation Award  
+Dr. Guannan Gong was recognized with a 2026 Yale Faculty Innovation Award for CTRLTRIAL, an AI-driven platform that matches patients to clinical trials through eligibility screening. The award honors Yale faculty whose inventions were licensed to startups in FY2026. Coverage also appeared from Yale School of Medicine, Yale Cancer Center, Smilow Cancer Hospital, and social channels.  
+[Yale Ventures announcement →](https://ventures.yale.edu/news/discovery-venture-nine-faculty-innovators-recognized-launching-eleven-yale-startups) · [Faculty Innovation Awards →](https://ventures.yale.edu/community/faculty-innovation-awards) · [YSM News & Recognition →](https://medicine.yale.edu/myysm/previous-news/newsletter-issue/ysm-news-and-recognition-11-18-2026-1/) · [Yale Cancer Center on X →](https://x.com/YaleCancer/status/2123510372099346602)
+
+**September 2026** — LEAD-ONC published in *JCO Clinical Cancer Informatics*  
+Our LEAD-ONC platform for reconstructing survival data from oncology trial reports and supporting evidence-driven trial design was published.  
+[Read the paper →](https://doi.org/10.1200/CCI-26-00099)
+
 **March 2026** — AI in Cancer Workshop: Advancing Precision Medicine through Interdisciplinary Innovation  
 Yale School of Medicine hosted a workshop on AI applications in cancer care and precision medicine.  
 [Yale profile news →](https://medicine.yale.edu/profile/guannan-gong/)

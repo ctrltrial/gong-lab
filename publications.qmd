@@ -2,20 +2,9 @@
 title: "Publications"
 ---
 
-Selected publications from the Gong Lab. A full bibliography is available on [Dr. Gong's Yale profile](https://medicine.yale.edu/profile/guannan-gong/).
+Selected publications from the Gong Lab. A full bibliography is available on [Dr. Gong's Google Scholar profile](https://scholar.google.com/citations?hl=en&user=g0oIisEAAAAJ&view_op=list_works&sortby=pubdate) and [Yale profile](https://medicine.yale.edu/profile/guannan-gong/).
 
 ## In press & forthcoming
-
-**Learning from Literature: Integrating LLMs and Bayesian Hierarchical Modeling for Oncology Trial Design**
-
-Gong G, Roychoudhury S, Meisner A, Pusztai L, Goldberg SB, Wei W.
-
-*JCO Clinical Cancer Informatics*. In press.  
-[arXiv](https://doi.org/10.48550/arXiv.2602.08172)
-
-Integrates large language models with Bayesian hierarchical modeling to support evidence-driven oncology clinical trial design from published literature.
-
----
 
 **The Fundamentals of Digital Oncology: Key Technologies in Digital Oncology**
 
@@ -28,6 +17,17 @@ Book chapter on foundational technologies in digital oncology.
 ## Peer-reviewed original research
 
 ### 2026
+
+**LEAD-ONC: A Platform for Reconstructing Survival Data From Trial Reports for Targeted Evidence Synthesis and Clinical Trial Design**
+
+Gong G, Roychoudhury S, Meisner A, Pusztai L, Goldberg SB, Wei W.
+
+*JCO Clinical Cancer Informatics* 2026; 10:e2600099.  
+[DOI: 10.1200/CCI-26-00099](https://doi.org/10.1200/CCI-26-00099) · [Platform](https://lead-onc.org/)
+
+AI-assisted platform that extracts trial metadata, reconstructs survival data from Kaplan–Meier curves, and supports Bayesian evidence synthesis for oncology trial design.
+
+---
 
 **Evaluating Underrepresentation in Cancer Clinical Trial Enrollment across Three NCI-Designated Cancer Centers: A Retrospective Demographic Study**
 
@@ -71,6 +71,16 @@ Xie J, Parikh J, Liu J, Pandya S, Gong G.
 
 Protocol for an LLM-enabled pipeline to cluster, summarize, and visualize eligibility criteria from ClinicalTrials.gov oncology trials.
 
+---
+
+**MET Expression by Immunohistochemistry as a Biomarker in Pancreatic Neuroendocrine Tumours**
+
+Carrasco-Tenezaca F, Marciano T, Brown LM, Carmichael G, Gong G, et al.
+
+*Histopathology* 2026.
+
+Study of MET immunohistochemistry as a biomarker in pancreatic neuroendocrine tumors.
+
 ### 2021
 
 **Clinical Characteristics and Outcomes for 7,995 Patients with SARS-CoV-2 Infection**
@@ -113,13 +123,43 @@ Durant TJS, Gong G, Price N, Schulz WL.
 
 ## Preprints & under review
 
-**LEAD-ONC: An AI-Assisted Framework for Automated Extraction and Harmonization of Clinical Trial Data from Oncology Literature**
+**TRACE: Target-Trial Relevance Assessment and Compatibility-Guided Evidence Synthesis**
 
-Song M, Wei W, Gong G.
+Wei W, Ke L, Tang T, Challa P, Gupta TR, Gong G, Roychoudhury S, Sundar R.
 
-Under review. [arXiv:2602.08172](https://doi.org/10.48550/arXiv.2602.08172)
+*arXiv* 2026. [arXiv:2611.16870](https://arxiv.org/abs/2611.16870)
 
-Framework for automated extraction and harmonization of oncology clinical trial data from published literature.
+Framework for selecting compatible external trials and synthesizing control-arm survival benchmarks for oncology trial design.
+
+---
+
+**StochIKM: Automated High-Fidelity Reconstruction of Individual Patient Data from Published Kaplan–Meier Curves**
+
+Ke L, Zelterman D, Wei W, Gong G.
+
+*arXiv* 2026. [arXiv:2610.29122](https://arxiv.org/abs/2610.29122)
+
+Stochastic algorithm for reconstructing admissible individual patient datasets from published Kaplan–Meier figures with explicit fidelity constraints.
+
+---
+
+**CARB: A Covariate-Assessed Robust Borrowing Strategy with Literature-Informed Prior Weights for External Data**
+
+Liang J, Gong G, Roychoudhury S, Wei W.
+
+*arXiv* 2026. [arXiv:2608.28810](https://arxiv.org/abs/2608.28810)
+
+Design-stage framework for assigning source-specific prior weights when borrowing external control data based on baseline covariate compatibility.
+
+---
+
+**Learning from Literature: Integrating LLMs and Bayesian Hierarchical Modeling for Oncology Trial Design**
+
+Gong G, Roychoudhury S, Meisner A, Pusztai L, Goldberg SB, Wei W.
+
+*arXiv* 2026. [arXiv:2602.08172](https://doi.org/10.48550/arXiv.2602.08172)
+
+Preprint describing the LEAD-ONC methodological framework for evidence-driven oncology trial design.
 
 ---
 
@@ -130,6 +170,46 @@ Dai H, Young HP, Durant TJS, Gong G, Kang M, Krumholz HM, Schulz WL, Jiang L.
 *arXiv* 2018. [arXiv:1807.03662](https://arxiv.org/abs/1807.03662)
 
 ## Selected conference abstracts & presentations
+
+**Patient- and Clinician-Informed Development of an Epic-Integrated ePRO Tool to Support CDK4/6 Inhibitor Persistence**
+
+Caetano ML, Taghzout S, Gong G, Liu J, Lustberg MB.
+
+*JCO Oncology Practice* 2026; 22(10_suppl):418.
+
+---
+
+**Automated Eligibility Screening for Adjuvant CDK4/6 Inhibitors in High-Risk HR+/HER2− Early Breast Cancer Using Natural Language Processing**
+
+Liu J, Pandya S, Brown BR, Caetano ML, Taghzout S, Ramos M, Hood A, Zummo M, Wei W, Legare R, Lustberg M, Gong G.
+
+ASCO Annual Meeting, 2026. *Journal of Clinical Oncology* 2026; 44(16_suppl):e23303.
+
+---
+
+**Learning from the Literature: An AI-Assisted Bayesian Framework for Evidence-Driven Oncology Trial Design**
+
+Gong G, Roychoudhury S, Meisner A, Pusztai L, Goldberg SB, Wei W.
+
+ASCO Annual Meeting, 2026. *Journal of Clinical Oncology* 2026; 44(16_suppl):e23010.
+
+---
+
+**Association Between Area Deprivation Index (ADI) and Treatment Persistence with CDK4/6 Inhibitors in HR+/HER2− Breast Cancer**
+
+Caetano ML, Liu J, Brown BR, Gong G, Pandya S, Taghzout S, Ramos M, et al.
+
+AACR Annual Meeting, 2026. *Cancer Research* 2026; 86(7_Supplement):6648.
+
+---
+
+**Real-World Persistence with CDK4/6 Inhibitors in Early and Metastatic HR-Positive, HER2-Negative Breast Cancer**
+
+Gong G, Brown BR, Pandya S, Caetano M, Legare R, Taghzout S, Ramos M, Liu J, Hood A, Zummo M, Lustberg M.
+
+NCCN Annual Conference, 2026. *JNCCN* 2026; 24(3.5):HSR26-243.
+
+---
 
 **Improving Identification and Enrollment in HR+/HER2− Breast Cancer Trials Using AI Clinical Trial Patient Matching Tool**
 
@@ -160,27 +240,3 @@ San Antonio Breast Cancer Symposium, San Antonio, TX, 2025.
 Taborda C, Gong G, Douglas G, Liu J, Incoom A, Stahl M, Podoltsev N, Bewersdorf JP, Getz T, Stempel J, Kewan T, Lanino L, Bidikian A, Parker T, Bar N, Browning S, Halene S, Neparidze N, Zeidan A, Mendez L.
 
 67th ASH Annual Meeting. *Blood* 2025; 146(Suppl 1):1086.
-
----
-
-**Real-World Persistence with CDK4/6 Inhibitors in Early and Metastatic HR-Positive, HER2-Negative Breast Cancer**
-
-Gong G, Brown BR, Pandya S, Caetano M, Legare R, Taghzout S, Ramos M, Liu J, Hood A, Zummo M, Lustberg M.
-
-NCCN Annual Conference, 2026.
-
----
-
-**Automated Eligibility Screening for Adjuvant CDK4/6 Inhibitors in High-Risk HR+/HER2− Early Breast Cancer Using Natural Language Processing**
-
-Liu J, Pandya S, Brown BR, Caetano ML, Taghzout S, Ramos M, Hood A, Zummo M, Wei W, Legare R, Lustberg M, Gong G.
-
-ASCO Annual Meeting, 2026.
-
----
-
-**Learning from the Literature: An AI-Assisted Bayesian Framework for Evidence-Driven Oncology Trial Design**
-
-Gong G, Roychoudhury S, Meisner A, Pusztai L, Goldberg SB, Wei W.
-
-ASCO Annual Meeting, 2026.
