@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gonglab.org/people.html</loc>
-    <lastmod>2026-07-02T23:04:17.301Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gonglab.org/publications.html</loc>
-    <lastmod>2026-11-24T20:56:38.565Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gonglab.org/projects.html</loc>
-    <lastmod>2026-06-28T18:58:20.314Z</lastmod>
-  </url>
-  <url>
     <loc>https://gonglab.org/join.html</loc>
-    <lastmod>2026-06-27T19:43:19.180Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gonglab.org/research.html</loc>
-    <lastmod>2026-06-29T13:45:10.527Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gonglab.org/contact.html</loc>
-    <lastmod>2026-06-27T19:43:19.919Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gonglab.org/news.html</loc>
-    <lastmod>2026-11-24T20:56:38.565Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gonglab.org/index.html</loc>
-    <lastmod>2026-11-24T20:56:38.565Z</lastmod>
+    <lastmod>2026-11-24T20:56:56.908Z</lastmod>
   </url>
   <url>
     <loc>https://gonglab.org/funding.html</loc>
-    <lastmod>2026-06-30T16:08:07.252Z</lastmod>
+    <lastmod>2026-11-24T20:56:56.890Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gonglab.org/projects.html</loc>
+    <lastmod>2026-11-24T20:56:56.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gonglab.org/publications.html</loc>
+    <lastmod>2026-11-24T20:56:56.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gonglab.org/contact.html</loc>
+    <lastmod>2026-11-24T20:56:56.865Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gonglab.org/research.html</loc>
+    <lastmod>2026-11-24T20:56:56.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gonglab.org/index.html</loc>
+    <lastmod>2026-11-24T20:56:56.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gonglab.org/news.html</loc>
+    <lastmod>2026-11-24T20:56:56.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gonglab.org/people.html</loc>
+    <lastmod>2026-11-24T20:56:56.908Z</lastmod>
   </url>
 </urlset>
